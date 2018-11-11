@@ -26,10 +26,11 @@ class ListingBuilder:
                 num_of_reviews = x.num_of_reviews()
                 rating = x.rating()
                 address = x.address()
+                cuisines = x.cuisines()
                 ranking = x.ranking()
                 price = x.price()
                 rating_types = x.rating_types()
-                listings.append({'Name': name, 'Number of Reviews': num_of_reviews, 'Rating': rating, 'Address': address, 'Ranking':ranking, 'Price': price, 'Rating Types': rating_types})
+                listings.append({'Name': name, 'Number of Reviews': num_of_reviews, 'Rating': rating, 'Address': address, 'Cuisines':cuisines, 'Ranking':ranking, 'Price': price, 'Rating Types': rating_types})
             print(listings)
 
 class Scraper:
@@ -65,7 +66,8 @@ class Parser:
         return self.listing_page.find('span', {'class':'overallRating'}).text
 
     def cuisines(self):
-        return self.listing_page.find('div', {'class':'text'}).text
+        return self.listing_page.find('span', {'class':'header_links rating_and_popularity'}).text
+
 
     def ranking(self):
         return self.listing_page.b.text.replace('#', '')
