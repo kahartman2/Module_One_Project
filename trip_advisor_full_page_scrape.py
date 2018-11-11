@@ -14,7 +14,10 @@ class ListingBuilder:
             num_of_reviews = x.num_of_reviews()
             rating = x.rating()
             address = x.address()
-            listings.append({'Name': name, 'Number of Reviews': num_of_reviews, 'Rating': rating, 'Address': address})
+            ranking = x.ranking()
+            price = x.price()
+            rating_types = x.rating_types()
+            listings.append({'Name': name, 'Number of Reviews': num_of_reviews, 'Rating': rating, 'Address': address, 'Ranking':ranking, 'Price': price, 'Rating Types': rating_types})
         print(listings)
 
 class Scraper:
@@ -51,3 +54,17 @@ class Parser:
 
     def cuisines(self):
         return self.bottom_half.find('div', {'class':'text'}).text
+
+    def ranking(self):
+        return self.bottom_half.b.text.replace('#', '')
+
+    def price(self):
+        return self.bottom_half.find('span', {'class':'header_tags rating_and_popularity'}).text
+
+    def rating_types(self):
+        five = self.bottom_half.find_all('span', {'class': 'row_count row_cell'})[0].text
+        four = self.bottom_half.find_all('span', {'class': 'row_count row_cell'})[1].text
+        three = self.bottom_half.find_all('span', {'class': 'row_count row_cell'})[2].text
+        two = self.bottom_half.find_all('span', {'class': 'row_count row_cell'})[3].text
+        one = self.bottom_half.find_all('span', {'class': 'row_count row_cell'})[4].text
+        return {'5':five, '4':four, '3':three, '2':two, '1':one}
