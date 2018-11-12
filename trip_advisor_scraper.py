@@ -4,8 +4,8 @@ from bs4 import BeautifulSoup
 class ListingBuilder:
     def run_scraper(self):
         ta = Scraper()
+        self.listings = []
         for restaurant in ta.url_list():
-            listings = []
             ta.webpage_html(restaurant)
             for restaurant in ta.listing_page():
                 x  = Parser(restaurant)
@@ -13,8 +13,8 @@ class ListingBuilder:
                 cuisines, ranking, price, rating_types_percent = x.cuisines(), x.ranking(), x.price(), x.rating_types_percent()
                 keys = ['Name', 'Ranking', 'Rating', 'Number of Reviews', 'Address', 'Cuisines',  'Price', 'Rating Types']
                 values = [name, ranking, rating, num_of_reviews, address, cuisines, price, rating_types_percent]
-                listings.append(dict(zip(keys, values)))
-            print(listings)
+                self.listings.append(dict(zip(keys, values)))
+        return self.listings
 
 class Scraper:
     def webpage_html(self, url):
@@ -24,8 +24,8 @@ class Scraper:
 
     def listing_page(self, trip_advisor_html = None):
         trip_advisor_html = trip_advisor_html or self.trip_advisor_html
-        timeout_soup = BeautifulSoup(trip_advisor_html)
-        individual_listing =  timeout_soup.findAll('div', {'class': ' non_hotels_like desktop scopedSearch'})
+        ta_soup = BeautifulSoup(trip_advisor_html)
+        individual_listing =  ta_soup.findAll('div', {'class': ' non_hotels_like desktop scopedSearch'})
         self.individual_listing = individual_listing
         return self.individual_listing
 
@@ -55,7 +55,8 @@ class Parser:
         return street + " " + city_st_zip
 
     def num_of_reviews(self):
-        return int(self.listing_page.find('a', {'class':"seeAllReviews"}).text.replace(' reviews', ''))
+        str = self.listing_page.find('a', {'class':"seeAllReviews"}).text.replace(' reviews', '')
+        return int(str.replace(',', ''))
 
     def rating(self):
         return float(self.listing_page.find('span', {'class':'overallRating'}).text)
