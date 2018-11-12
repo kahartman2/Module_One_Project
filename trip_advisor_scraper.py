@@ -31,7 +31,7 @@ class Scraper:
 
     def url_list(self):
         self.individual_listing_urls = []
-        for i in range(0,400,30):
+        for i in range(720,1800,30):
             url = 'https://www.tripadvisor.com/Restaurants-g60763-oa{}-New_York_City_New_York.html'.format(i)
             request = requests.get(url).text
             soup = BeautifulSoup(request)
@@ -62,10 +62,14 @@ class Parser:
         return float(self.listing_page.find('span', {'class':'overallRating'}).text)
 
     def cuisines(self):
-        return self.listing_page.find('span', {'class':'header_links rating_and_popularity'}).text.split(',')
+        try:
+            return self.listing_page.find('span', {'class':'header_links rating_and_popularity'}).text.split(',')
+        except AttributeError:
+            return None
 
     def ranking(self):
-        return int(self.listing_page.b.text.replace('#', ''))
+        str = self.listing_page.b.text.replace('#', '')
+        return int(str.replace(',', ''))
 
     def price(self):
         return self.listing_page.find('span', {'class':'header_tags rating_and_popularity'}).text
