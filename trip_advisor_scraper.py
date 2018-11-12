@@ -75,4 +75,4 @@ class Parser:
         three = self.listing_page.find_all('span', {'class': 'row_count row_cell'})[2].text.replace('%','')
         two = self.listing_page.find_all('span', {'class': 'row_count row_cell'})[3].text.replace('%','')
         one = self.listing_page.find_all('span', {'class': 'row_count row_cell'})[4].text.replace('%','')
-        return {'5':int(five), '4':int(four), '3':int(three), '2':int(two), '1':int(one)}
+        return {'5-Star':int(five), '4-Star':int(four), '3-Star':int(three), '2-Star':int(two), '1-Star':int(one)}
