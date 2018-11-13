@@ -1,4 +1,4 @@
-restaurant_name,michelin_stars
+Name,Stars
 Chef’s Table at Brooklyn Fare,3
 Eleven Madison Park,3
 Le Bernardin,3
@@ -62,7 +62,7 @@ Noda,1
 NoMad,1
 Okuda,1
 Oxomoco,1
-Peter Luger,1
+Peter Luger Steak House,1
 The River Cafe,1
 Satsuki,1
 Sushi Amane,1
@@ -72,6 +72,6 @@ Sushi Noz,1
 Sushi Yasuda,1
 Tempura Matsui,1
 Tuome,1
-Uncle Boons,1
+Uncle Boon's,1
 Wallse,1
 ZZ’s Clam Bar,1
