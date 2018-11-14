@@ -11,6 +11,8 @@ class Restaurant(Base):
     name = Column(Text)
     address = Column(Text)
     zip_code = Column(Integer)
+    latitude = Column(Integer)
+    longitude = Column(Integer)
     cuisine = relationship('Cuisine', back_populates = 'restaurant')
     trip_advisor_info = relationship('TripAdvisor', back_populates='restaurant')
     infatuation_info = relationship('Infatuation', back_populates='restaurant')
@@ -44,19 +46,6 @@ class TripAdvisor(Base):
     number_reviews = Column(Integer)
     restaurant_id = Column(Integer, ForeignKey('restaurants.id'))
     restaurant = relationship('Restaurant', back_populates='trip_advisor_info')
-    trip_advisor_breakdown = relationship('TripAdvisorBreakdown', back_populates='trip_advisor_info')
-
-class TripAdvisorBreakdown(Base):
-    __tablename__ = 'trip_advisor_breakdown'
-
-    id = Column(Integer, primary_key = True)
-    proportion_one_star = Column(Integer)
-    proportion_two_star = Column(Integer)
-    proportion_three_star = Column(Integer)
-    proportion_four_star = Column(Integer)
-    proportion_five_star = Column(Integer)
-    trip_advisor_info_id = Column(Integer, ForeignKey('trip_advisor_info.id'))
-    trip_advisor_info = relationship('TripAdvisor', back_populates='trip_advisor_breakdown')
 
 class Infatuation(Base):
     __tablename__ = 'infatuation_info'
