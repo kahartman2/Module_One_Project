@@ -1,0 +1,1290 @@
+{'Name': 'Piccola Cucina', 'Address': '184 Prince St New York City, NY 10012-2979'}
+{'Name': 'SottoCasa Pizzeria', 'Address': '227 Lenox Ave New York City, NY 10027-6542'}
+{'Name': 'Boucherie Park Avenue South', 'Address': '225 Park Ave S New York City, NY 10003-1604'}
+{'Name': 'Pisillo Italian Panini', 'Address': '97 Nassau St New York City, NY 10038-2703'}
+{'Name': 'Club A Steakhouse', 'Address': '240 E 58th Street New York City, NY 10022-2001'}
+{'Name': 'Daniel', 'Address': '60 East 65th Street New York City, NY 10065-7056'}
+{'Name': 'Song E Napule', 'Address': '146 W Houston St New York City, NY 10012-2561'}
+{'Name': 'Piccola Cucina', 'Address': '196 Spring St New York City, NY 10012-3621'}
+{'Name': 'Decoy Bar', 'Address': '529 1/2 Hudson St New York City, NY 10014-2601'}
+{'Name': 'Sottocasa Pizzeria', 'Address': '298 Atlantic Ave Brooklyn, NY 11201-6763'}
+{'Name': 'Petite Boucherie', 'Address': '14 Christopher St New York City, NY 10014-3523'}
+{'Name': ""Faicco's Pork Store"", 'Address': '260 Bleecker St New York City, NY 10014-4128'}
+{'Name': 'Los Tacos No. 1', 'Address': '75 9th Ave New York City, NY 10011-7006'}
+{'Name': 'Spice Symphony', 'Address': '150 E 50th St New York City, NY 10022-9500'}
+{'Name': 'Per Se', 'Address': '10 Columbus Cir New York City, NY 10019-1158'}
+{'Name': 'Fiore Deli of Hoboken', 'Address': '414 Adams St Hoboken, NJ 07030-2693'}
+{'Name': 'Le Bernardin', 'Address': '155 W 51st St New York City, NY 10019-6019'}
+{'Name': ""Murray's Cheese"", 'Address': '254 Bleecker St New York City, NY 10014-4101'}
+{'Name': 'Pure Thai Cookhouse', 'Address': '766 9th Ave New York City, NY 10019-6323'}
+{'Name': 'K Rico', 'Address': '772 9th Ave New York City, NY 10019-6327'}
+{'Name': ""Eileen's Special Cheesecake"", 'Address': '17 Cleveland Pl New York City, NY 10012-4052'}
+{'Name': 'Gabriel Kreuther', 'Address': '41 W 42nd St New York City, NY 10036-8003'}
+{'Name': 'Bleecker Street Pizza', 'Address': '69 7th Ave S New York City, NY 10014-4043'}
+{'Name': 'B Side Pizzeria', 'Address': '370 W 51st St New York City, NY 10019-6403'}
+{'Name': 'Boucherie Restaurant', 'Address': '99 7th Ave S New York City, NY 10014-3415'}
+{'Name': 'Olio e Piu', 'Address': '3 Greenwich Ave New York City, NY 10014-3543'}
+{'Name': 'Royal 35 Steakhouse', 'Address': '1 E 35th Street New York City, NY 10016-3828'}
+{'Name': 'Gramercy Tavern', 'Address': '42 E 20th St New York City, NY 10003-1300'}
+{'Name': ""Juliana's Pizza"", 'Address': '19 Old Fulton St Brooklyn, NY 11201-1322'}
+{'Name': 'Jungsik', 'Address': '2 Harrison St New York City, NY 10013-2810'}
+{'Name': 'Indian Accent', 'Address': '123 W 56th St New York City, NY 10019-3802'}
+{'Name': 'The Modern', 'Address': '9 W 53rd St New York City, NY 10019-5401'}
+{'Name': 'Momofuku Ko', 'Address': '8 Extra Pl New York City, NY 10003-8926'}
+{'Name': 'Tree Bistro', 'Address': '190 1st Ave New York City, NY 10009-4004'}
+{'Name': 'San Carlo Osteria Piemonte', 'Address': '90 Thompson St New York City, NY 10012-3744'}
+{'Name': 'San Matteo Pizza Espresso Bar', 'Address': '1739 2nd Ave New York City, NY 10128-3502'}
+{'Name': 'Nish Nush', 'Address': '88 Reade St New York City, NY 10013-3814'}
+{'Name': ""L'Artusi"", 'Address': '228 W 10th St New York City, NY 10014-6405'}
+{'Name': 'The Musket Room', 'Address': '265 Elizabeth St New York City, NY 10012-3989'}
+{'Name': 'RabbitHole', 'Address': '352 Bedford Ave Brooklyn, NY 11249-5586'}
+{'Name': 'Hatsuhana Restaurant', 'Address': '17 E 48th St Ste 1 New York City, NY 10017-1010'}
+{'Name': 'Bouley Restaurant', 'Address': '163 Duane Street New York City, NY 10013-3810'}
+{'Name': 'Rubirosa', 'Address': '235 Mulberry St New York City, NY 10012-4157'}
+{'Name': 'Craft', 'Address': '43 E 19th St New York City, NY 10003-1304'}
+{'Name': 'Broadway Bagel', 'Address': '2658 Broadway New York City, NY 10025-5023'}
+{'Name': 'Russ & Daughters', 'Address': '179 E Houston St New York City, NY 10002-1024'}
+{'Name': 'Izakaya Mew', 'Address': '53 W 35th St New York City, NY 10001-2219'}
+{'Name': ""Gallagher's Steak House"", 'Address': '228 W 52nd St New York City, NY 10019-5802'}
+{'Name': 'Beyond Sushi', 'Address': '229 E 14th St New York City, NY 10003-4111'}
+{'Name': 'Loi Estiatorio', 'Address': '132 W 58th St New York City, NY 10019-2135'}
+{'Name': 'Russ & Daughters Cafe', 'Address': '127 Orchard St New York City, NY 10002-3103'}
+{'Name': 'Numero 28 Pizzeria', 'Address': '28 Carmine St New York City, NY 10014-4437'}
+{'Name': 'Lincoln Square Steak', 'Address': '208 W 70th Street New York City, NY 10023-4302'}
+{'Name': 'Cull & Pistol', 'Address': '75 9th Ave New York City, NY 10011-7006'}
+{'Name': ""Mastro's Steakhouse"", 'Address': '1285 Avenue of the Americas New York City, NY 10019'}
+{'Name': ""Patsy's Italian Restaurant"", 'Address': '236 W 56th St New York City, NY 10019-4306'}
+{'Name': 'Rafele', 'Address': '29 7th Ave S New York City, NY 10014-3938'}
+{'Name': 'Via Della Pace', 'Address': '48 E 7th St New York City, NY 10003-8437'}
+{'Name': 'Keens Steakhouse', 'Address': '72 West 36th Street New York City, NY 10018-8025'}
+{'Name': 'Upstate', 'Address': '95 1st Ave New York City, NY 10003-2902'}
+{'Name': 'Momosan Ramen & Sake', 'Address': '342 Lexington Ave New York City, NY 10016-0907'}
+{'Name': 'Tocqueville', 'Address': '1 E 15th St New York City, NY 10003-3102'}
+{'Name': 'Nerai', 'Address': '55 E 54th St New York City, NY 10022-4206'}
+{'Name': 'Bagels & Schmear', 'Address': '114 E 28th St New York City, NY 10016-8402'}
+{'Name': 'Cafe Mogador', 'Address': '133 Wythe Ave Brooklyn, NY 11249-2809'}
+{'Name': 'Her Name Is Han', 'Address': '17 East 31st 1st New York City, NY 10016'}
+{'Name': 'Rustic Table', 'Address': '504 W 42nd St New York City, NY 10036-6204'}
+{'Name': 'Almayass', 'Address': '24 E 21st St New York City, NY 10010-7200'}
+{'Name': 'Gotham Bar & Grill', 'Address': '12 E 12th St New York City, NY 10003-4428'}
+{'Name': 'Il Punto Ristorante', 'Address': '507 9th Ave New York City, NY 10018-2802'}
+{'Name': 'Bemelmans Bar', 'Address': '35 E 76th St New York City, NY 10021-1827'}
+{'Name': 'Atera', 'Address': '77 Worth St New York City, NY 10013-3411'}
+{'Name': 'The Little Owl', 'Address': '90 Bedford St New York City, NY 10014-3764'}
+{'Name': 'Oregano', 'Address': '102 Berry St Brooklyn, NY 11249-3231'}
+{'Name': 'Cocotte', 'Address': '110 Thompson St New York City, NY 10012-3749'}
+{'Name': 'Scalini Fedeli', 'Address': '165 Duane St New York City, NY 10013-3332'}
+{'Name': 'The Capital Grille', 'Address': '155 E 42nd St New York City, NY 10017-5608'}
+{'Name': 'Flex Mussels - 13th Street', 'Address': '154 W 13th St New York City, NY 10011-7802'}
+{'Name': 'Jacob Restaurant Soul Food & Salad Bar', 'Address': '2695 Frederick Douglass Blvd New York City, NY 10030-1206'}
+{'Name': 'The Lobster Place', 'Address': '75 9th Ave New York City, NY 10011-7006'}
+{'Name': 'Dinosaur Bar-B-Que', 'Address': '700 W 125th St New York City, NY 10027-2314'}
+{'Name': 'Taim West Village', 'Address': '222 Waverly Pl New York City, NY 10014-2404'}
+{'Name': 'Estiatorio Milos', 'Address': '125 W 55th St New York City, NY 10019-5369'}
+{'Name': 'The Mean Fiddler', 'Address': '266 W 47th St New York City, NY 10036-1411'}
+{'Name': 'Amelie', 'Address': '22 W 8th St New York City, NY 10011-9002'}
+{'Name': ""Jacob's Pickles"", 'Address': '509 Amsterdam Ave New York City, NY 10024-3941'}
+{'Name': 'Robert', 'Address': '2 Columbus Cir New York City, NY 10019-1800'}
+{'Name': 'Whiskey Tavern', 'Address': '79 Baxter St New York City, NY 10013-4462'}
+{'Name': 'Casellula', 'Address': '401 W 52nd St New York City, NY 10019-5625'}
+{'Name': 'Ocean Prime', 'Address': '123 W 52nd St New York City, NY 10019-6003'}
+{'Name': 'The River Cafe', 'Address': '1 Water St Brooklyn, NY 11201-1335'}
+{'Name': 'Hummus Place Upper West Side', 'Address': '305 Amsterdam Ave New York City, NY 10023-1739'}
+{'Name': 'Up Thai restaurant', 'Address': '1411 2nd Ave New York City, NY 10021-3771'}
+{'Name': 'Del Posto', 'Address': '85 Tenth Avenue New York City, NY 10011'}
+{'Name': 'Pizza Suprema', 'Address': '413 8th Ave New York City, NY 10001-1804'}
+{'Name': 'Chefs Club', 'Address': '275 Mulberry St New York City, NY 10012-3329'}
+{'Name': 'Blue Hill', 'Address': '75 Washington Pl New York City, NY 10011-9174'}
+{'Name': 'Patzeria Family & Friends', 'Address': '311 W. 48th Street New York City, NY 10036-1300'}
+{'Name': 'Beyond Sushi', 'Address': '62 W 56th St New York City, NY 10019-3824'}
+{'Name': 'Amish Market East', 'Address': '240 E 45th St New York City, NY 10017-3302'}
+{'Name': 'The Donut Pub', 'Address': '203 W 14th St New York City, NY 10011-7104'}
+{'Name': ""Emilio's Ballato"", 'Address': '55 E Houston St New York City, NY 10012-2712'}
+{'Name': 'Red Bamboo', 'Address': '140 W4th St New York City, NY 10012-1049'}
+{'Name': 'Ippudo', 'Address': '321 W 51st St New York City, NY 10019-6401'}
+{'Name': 'Mermaid Oyster Bar', 'Address': '79 Macdougal St New York City, NY 10012-2514'}
+{'Name': 'BG - Bergdorf Goodman', 'Address': '754 5th Ave New York City, NY 10019-2503'}
+{'Name': 'AQUAGRILL', 'Address': '210 Spring St New York City, NY 10012-3601'}
+{'Name': 'Hangawi', 'Address': '12 E 32nd St New York City, NY 10016-5419'}
+{'Name': 'Momoya', 'Address': '185 7th Ave New York City, NY 10011-1804'}
+{'Name': 'El Centro', 'Address': '824 9th Ave New York City, NY 10019-5554'}
+{'Name': 'IL Melograno', 'Address': '501 W 51st St New York City, NY 10019-5341'}
+{'Name': ""Henry's End Restaurant"", 'Address': '44 Henry St Brooklyn, NY 11201-1329'}
+{'Name': 'The Dead Rabbit', 'Address': '30 Water St New York City, NY 10004-2411'}
+{'Name': 'The Original SoupMan', 'Address': '259A W 55th St New York City, NY 10019-5202'}
+{'Name': 'Aurora SoHo', 'Address': '510 Broome St New York City, NY 10013-1695'}
+{'Name': 'Barn Joo 35', 'Address': '34 W 35th St New York City, NY 10001-2256'}
+{'Name': 'Bistango Restaurant', 'Address': '415 3rd Ave New York City, NY 10016-8104'}
+{'Name': 'Land', 'Address': '450 Amsterdam Ave New York City, NY 10024-5507'}
+{'Name': 'The Capital Grille', 'Address': '120 W 51st St New York City, NY 10020-1300'}
+{'Name': 'The NoMad Bar', 'Address': '10 W 28th St New York City, NY 10001-6403'}
+{'Name': 'Basso56', 'Address': '234 W 56th St New York City, NY 10019-4302'}
+{'Name': 'PRINT', 'Address': '653 11th Ave New York City, NY 10036-2004'}
+{'Name': 'Whole Foods Market', 'Address': '10 Columbus Cir New York City, NY 10019-1158'}
+{'Name': 'Blue Ribbon Sushi', 'Address': '119 Sullivan St New York City, NY 10012-3680'}
+{'Name': 'Bareburger', 'Address': '366 W 46th St New York City, NY 10036-8307'}
+{'Name': 'Burger & Lobster', 'Address': '39 W 19th St New York City, NY 10011-4225'}
+{'Name': 'Ribalta Pizza', 'Address': '48 E 12th St New York City, NY 10003-4640'}
+{'Name': 'Buddakan', 'Address': '75 9th Ave New York City, NY 10011-7006'}
+{'Name': ""Tony's Di Napoli - Midtown"", 'Address': '147 W 43rd St New York City, NY 10036-6575'}
+{'Name': ""Ed's Lobster Bar"", 'Address': '222 Lafayette St New York City, NY 10012-4026'}
+{'Name': ""John's of Bleecker Street"", 'Address': '278 Bleecker St New York City, NY 10014-4105'}
+{'Name': 'Via Carota', 'Address': '51 Grove St New York City, NY 10014-3416'}
+{'Name': ""Monte's Trattoria"", 'Address': '97 Macdougal St New York City, NY 10012-1259'}
+{'Name': ""Hell's Kitchen"", 'Address': '754 9th Ave New York City, NY 10019-8419'}
+{'Name': 'Marea', 'Address': '240 Central Park S New York City, NY 10019-1457'}
+{'Name': 'Masseria Dei Vini', 'Address': '887 9th Ave New York City, NY 10019-1704'}
+{'Name': 'Le Cou Cou Restaurant', 'Address': '138 Lafayette St New York City, NY 10013-3161'}
+{'Name': ""Joe's Pizza"", 'Address': '150 East 14th Street New York City, NY 10003'}
+{'Name': 'Benjamin Steakhouse Prime', 'Address': '23 E 40th St New York City, NY 10016-0106'}
+{'Name': 'Sunac Natural Food', 'Address': '600 W 42nd St New York City, NY 10036-2007'}
+{'Name': 'Emporio', 'Address': '231 Mott St New York City, NY 10012-5711'}
+{'Name': 'The Grey Dog', 'Address': '244 Mulberry St New York City, NY 10012-4105'}
+{'Name': 'Sea Fire Grill', 'Address': '158 E 48th St New York City, NY 10017-1224'}
+{'Name': 'La Grenouille', 'Address': '3 E 52nd St New York City, NY 10022-5301'}
+{'Name': 'The Boil', 'Address': '139 Chrystie St New York City, NY 10002-2857'}
+{'Name': 'Jean Georges', 'Address': '1 Central Park W New York City, NY 10023-7702'}
+{'Name': ""Feinstein's/54 Below"", 'Address': '254 W 54th St New York City, NY 10019-5516'}
+{'Name': 'Orso', 'Address': '322 W 46th St New York City, NY 10036-3801'}
+{'Name': ""Jimmy's Corner"", 'Address': '140 W 44th St New York City, NY 10036-4046'}
+{'Name': 'Taboon', 'Address': '773 10th Ave New York City, NY 10019-5027'}
+{'Name': 'The Red Cat', 'Address': '227 10th Ave New York City, NY 10011-4717'}
+{'Name': 'Tomoe Sushi', 'Address': '172 Thompson St New York City, NY 10012-2576'}
+{'Name': 'Dean Deluca', 'Address': '575 Broadway New York City, NY 10012-3230'}
+{'Name': 'Franchia Vegan Cafe', 'Address': '12 Park Ave New York City, NY 10016-4307'}
+{'Name': 'Market Table', 'Address': '54 Carmine St New York City, NY 10014-4424'}
+{'Name': 'Baz Bagel and Restaurant', 'Address': '181 Grand St New York City, NY 10013-3734'}
+{'Name': 'Blue Ribbon Brasserie', 'Address': '97 Sullivan St New York City, NY 10012-3663'}
+{'Name': ""Jack's Wife Freda"", 'Address': '224 Lafayette St New York City, NY 10012-4027'}
+{'Name': 'Shake Shack', 'Address': 'Southeast Corner of Madison Square Park New York City, NY 10010'}
+{'Name': 'Cuba', 'Address': '222 Thompson St New York City, NY 10012-1363'}
+{'Name': 'Veselka', 'Address': '144 2nd Ave New York City, NY 10003-8305'}
+{'Name': ""DeStefano's Steak House"", 'Address': '89 Conselyea St Brooklyn, NY 11211-2301'}
+{'Name': 'Raclette', 'Address': '511 E 12th St New York City, NY 10009-3879'}
+{'Name': 'Morton Williams - 57th St', 'Address': '140 W 57th St New York City, NY 10019-3326'}
+{'Name': ""Tanner Smith's"", 'Address': '204 W 55th St New York City, NY 10019-5240'}
+{'Name': ""Joe's Pizza - Carmine St"", 'Address': '7 Carmine St New York City, NY 10014-4441'}
+{'Name': ""Murray's Cheese Bar"", 'Address': '264 Bleecker St New York City, NY 10014-4101'}
+{'Name': 'Momofuku Noodle Bar', 'Address': '171 1st Ave New York City, NY 10003-2949'}
+{'Name': 'Buenos Aires', 'Address': '513 E 6th St New York City, NY 10009-6621'}
+{'Name': 'Saigon Shack', 'Address': '114 Macdougal St New York City, NY 10012-1245'}
+{'Name': 'Il Corso', 'Address': '54 W 55th St New York City, NY 10019-5309'}
+{'Name': ""Forlini's Restaurant"", 'Address': '93 Baxter St New York City, NY 10013-4491'}
+{'Name': 'Filaga Pizzeria e Rosticceria Siciliana', 'Address': '75 9th Ave New York City, NY 10011-7006'}
+{'Name': 'Blind Tiger Ale House', 'Address': '281 Bleecker St New York City, NY 10014-4106'}
+{'Name': 'Pylos', 'Address': '128 E 7th St New York City, NY 10009-6100'}
+{'Name': 'Queen Italian Restaurant', 'Address': '84 Court St Brooklyn, NY 11201-5042'}
+{'Name': 'Dirt Candy', 'Address': '86 Allen St New York City, NY 10002-3014'}
+{'Name': 'Marc Forgione', 'Address': '134 Reade St New York City, NY 10013-3958'}
+{'Name': 'Times Square Diner & Grill', 'Address': '807 , 8TH Avenue. Between 48 & 49 ST New York City, NY 10019'}
+{'Name': 'Buvette Gastrotheque', 'Address': '42 Grove St New York City, NY 10014-5310'}
+{'Name': 'Bareburger', 'Address': '153 8th Ave New York City, NY 10011-5107'}
+{'Name': 'Westville Hudson', 'Address': '333 Hudson St New York City, NY 10013-1006'}
+{'Name': 'Da Andrea Ristorante', 'Address': '35 W 13th St New York City, NY 10011-7924'}
+{'Name': 'La Lanterna di Vittorio', 'Address': '129 Macdougal St New York City, NY 10012-1076'}
+{'Name': '53rd & 6th Halal', 'Address': 'w53rd Street & 6th Ave. New York City, NY 10019'}
+{'Name': 'Fried Dumpling', 'Address': '106 Mosco St New York City, NY 10013-4321'}
+{'Name': 'Tamarind - Tribeca', 'Address': '99 Hudson St New York City, NY 10013-2815'}
+{'Name': 'Da Marino Restaurant', 'Address': '220 W 49th St New York City, NY 10019-7562'}
+{'Name': ""Luke's Lobster East Village"", 'Address': '93 E 7th St New York City, NY 10009-5702'}
+{'Name': 'Palma', 'Address': '28 Cornelia St New York City, NY 10014-4126'}
+{'Name': 'Margon', 'Address': '136 W 46th St New York City, NY 10036-8505'}
+{'Name': 'The MasalaWala', 'Address': '179 Essex St New York City, NY 10002-1547'}
+{'Name': 'Sushi Yasaka', 'Address': '251 W 72nd St New York City, NY 10023-2736'}
+{'Name': 'PizzArte', 'Address': '69 W 55th St New York City, NY 10019-4934'}
+{'Name': ""Giorgio's of Gramercy"", 'Address': '27 E 21st St New York City, NY 10010-6208'}
+{'Name': 'Rainbow Room', 'Address': '30 Rockefeller Plz New York City, NY 10112-0015'}
+{'Name': 'Pearl Oyster Bar', 'Address': '18 Cornelia St New York City, NY 10014-4138'}
+{'Name': 'La Masseria', 'Address': '235 W 48th St New York City, NY 10036-1404'}
+{'Name': 'Mogador Cafe', 'Address': '101 Saint Marks Pl New York City, NY 10009-5146'}
+{'Name': 'Trattoria Pesce Pasta', 'Address': '262 Bleecker St New York City, NY 10014-4101'}
+{'Name': 'The Halal Guys', 'Address': '6th Avenue At 53rd New York City, NY'}
+{'Name': 'Angela’s Sandwich Shop', 'Address': '1428 Avenue of the Americas New York City, NY 10019-1504'}
+{'Name': ""Zucker's Bagels & Smoked Fish"", 'Address': '370 Lexington Avenue New York City, NY 10017'}
+{'Name': 'Gato', 'Address': '324 Lafayette St New York City, NY 10012-2726'}
+{'Name': 'The Polo Bar at Ralph Lauren', 'Address': '1 E 55th St New York City, NY 10022-3111'}
+{'Name': 'Barney Greengrass', 'Address': '541 Amsterdam Ave New York City, NY 10024-2803'}
+{'Name': 'Eleven Madison Park', 'Address': '11 Madison Ave New York City, NY 10010-3643'}
+{'Name': ""Del Frisco's Double Eagle Steakhouse"", 'Address': '1221 Avenue of the Americas New York City, NY 10020-1001'}
+{'Name': 'Pisticci', 'Address': '125 La Salle St New York City, NY 10027-4651'}
+{'Name': 'Hudson Eats', 'Address': '225 Liberty St New York City, NY 10281-1048'}
+{'Name': ""Carmine's Italian Restaurant - Times Square"", 'Address': '200 W 44th St New York City, NY 10036'}
+{'Name': 'Red Farm', 'Address': '2170 Broadway New York City, NY 10024-6642'}
+{'Name': 'Toscana 49', 'Address': '143E 49st New York City, NY 10017'}
+{'Name': 'Keste West Village', 'Address': '271 Bleecker St New York City, NY 10014-4102'}
+{'Name': 'Black Iron Burger', 'Address': '540 E 5th St New York City, NY 10009-6529'}
+{'Name': 'Crispo', 'Address': '240 W 14th St New York City, NY 10011-7218'}
+{'Name': 'Flex Mussels', 'Address': '174 E 82nd St New York City, NY 10028-1839'}
+{'Name': 'Island Burgers and Shakes', 'Address': '766 9th Ave New York City, NY 10019-6323'}
+{'Name': 'Maison Premiere', 'Address': '298 Bedford Ave Brooklyn, NY 11249-4205'}
+{'Name': 'The Capital Grille', 'Address': '120 Broadway New York City, NY 10271-0002'}
+{'Name': 'by CHLOE. Bleecker Street', 'Address': '185 Bleecker St New York City, NY 10012-1415'}
+{'Name': 'STATE Grill and Bar', 'Address': '21 West 33rd St New York City, NY 10118-0110'}
+{'Name': 'Spice Symphony 31st', 'Address': '182 Lexington Ave New York City, NY 10016-6849'}
+{'Name': 'Red Hook Lobster Pound', 'Address': '284 Van Brunt St Brooklyn, NY 11231-1236'}
+{'Name': 'Il Gattopardo', 'Address': '13 W 54th St New York City, NY 10019-5422'}
+{'Name': 'Trattoria Trecolori', 'Address': '254 W 47th St New York City, NY 10036-5652'}
+{'Name': 'The Bluebell Cafe', 'Address': '293 3rd Ave New York City, NY 10010-5502'}
+{'Name': 'Little Italy Gourmet Pizza', 'Address': '55 W 45th St New York City, NY 10036-4604'}
+{'Name': 'The Perfect Pint', 'Address': '123 W 45th St New York City, NY 10036-4004'}
+{'Name': ""Eisenberg's Sandwich Shop"", 'Address': '174 5th Ave New York City, NY 10010-5913'}
+{'Name': 'Via Brasil Restaurant', 'Address': '34 W 46th St New York City, NY 10036-4520'}
+{'Name': '2nd Avenue Deli', 'Address': '162 E 33rd St New York City, NY 10016-4669'}
+{'Name': 'Perry St', 'Address': '176 Perry St New York City, NY 10014-2384'}
+{'Name': 'Peacefood Cafe', 'Address': '460 Amsterdam Ave New York City, NY 10024-5002'}
+{'Name': 'Bengal Tiger', 'Address': '58 W 56th St New York City, NY 10019-3820'}
+{'Name': 'Artichoke Pizza', 'Address': '328 E 14th St New York City, NY 10003-4230'}
+{'Name': 'Westway Diner', 'Address': '614 9th Ave New York City, NY 10036-3731'}
+{'Name': 'Hakata Ippudo NY', 'Address': '65 4th Ave New York City, NY 10003-5220'}
+{'Name': ""O'Hara's Restaurant and Pub"", 'Address': '120 Cedar St New York City, NY 10006-1530'}
+{'Name': 'Jongro BBQ', 'Address': '22 W 32nd St New York City, NY 10001-3807'}
+{'Name': 'Caracas Arepa Bar', 'Address': '91 E 7th St New York City, NY 10009-5729'}
+{'Name': 'Los Tacos No. 1', 'Address': '229 W 43rd St New York City, NY 10036-3982'}
+{'Name': 'Dean & Deluca', 'Address': '560 Broadway New York City, NY 10012-3938'}
+{'Name': ""Raoul's"", 'Address': '180 Prince St New York City, NY 10012-2924'}
+{'Name': 'Senza Gluten', 'Address': '206 Sullivan St New York City, NY 10012-4817'}
+{'Name': ""Andrew's Coffee Shop"", 'Address': '463 7th Ave New York City, NY 10018-7604'}
+{'Name': 'Bond Street', 'Address': '6 Bond St New York City, NY 10012-2332'}
+{'Name': 'Black Iron Burger', 'Address': '245 W 38th St New York City, NY 10018-4509'}
+{'Name': 'Candle 79', 'Address': '154 E 79th St New York City, NY 10075-0423'}
+{'Name': 'Fornino', 'Address': '187 Bedford Ave Brooklyn, NY 11211-5787'}
+{'Name': ""Fluffy's Cafe & Pizzeria"", 'Address': '370 W 58th St New York City, NY 10019-1828'}
+{'Name': 'Blossom Vegan Restaurant', 'Address': '187 9th Ave New York City, NY 10011-4906'}
+{'Name': 'Pommes Frites', 'Address': '128 Macdougal St New York City, NY 10012-5027'}
+{'Name': 'The Perfect Pint', 'Address': '203 E 45th St New York City, NY 10017'}
+{'Name': 'Piacere', 'Address': '351 Broome St New York City, NY 10013-4236'}
+{'Name': 'Batard', 'Address': '239 W Broadway New York City, NY 10013-2409'}
+{'Name': 'Fish', 'Address': '280 Bleecker St New York City, NY 10014-4159'}
+{'Name': ""Luke's Lobster- Upper East Side"", 'Address': '242 E 81st St New York City, NY 10028-2602'}
+{'Name': 'Eataly', 'Address': '200 Fifth Ave New York City, NY 10010-3302'}
+{'Name': 'Coppelia', 'Address': '207 W 14th St New York City, NY 10011-7143'}
+{'Name': 'Luzzo’s', 'Address': '211 1st Ave New York City, NY 10003-2982'}
+{'Name': 'Boulud Sud', 'Address': '20 W 64th St New York City, NY 10023-7129'}
+{'Name': 'BLT Steak', 'Address': '106 E 57th St New York City, NY 10022'}
+{'Name': 'Ayza Wine & Chocolate Bar', 'Address': '11 W 31st St New York City, NY 10001-4402'}
+{'Name': 'Sweet Chick', 'Address': '178 Ludlow St New York City, NY 10002-1549'}
+{'Name': ""Georgio's Country Grill"", 'Address': '801 9th Ave New York City, NY 10019-5601'}
+{'Name': 'Hillstone', 'Address': '378 Park Ave S New York City, NY 10010-1702'}
+{'Name': '5 Napkin Burger', 'Address': '630 9th Ave New York City, NY 10036'}
+{'Name': ""Lillie's Victorian Establishment"", 'Address': '249 W 49th St New York City, NY 10019-7404'}
+{'Name': 'Cafe Habana', 'Address': '17 Prince Street @ Elizabeth New York City, NY 10012-3507'}
+{'Name': 'Pure & Fresh', 'Address': '58 W 36th St New York City, NY 10018-8008'}
+{'Name': 'Stage Door Deli', 'Address': '26 Vesey St New York City, NY 10007-2906'}
+{'Name': 'Luke’s Lobster', 'Address': '26 S William St New York City, NY 10004-2495'}
+{'Name': 'Fiat Cafe', 'Address': '203 Mott St New York City, NY 10012-4562'}
+{'Name': 'Upland', 'Address': '345 Park Ave S New York City, NY 10010-1707'}
+{'Name': '12 Chairs', 'Address': '56 Macdougal St New York City, NY 10012-2930'}
+{'Name': 'Loring Place', 'Address': '21 W 8th St New York City, NY 10011-9032'}
+{'Name': ""Beecher's Handmade Cheese"", 'Address': '900 Broadway New York City, NY 10003-1210'}
+{'Name': ""Dutch Fred's"", 'Address': '307 W 47th St New York City, NY 10036-2403'}
+{'Name': 'Sushi Yasuda', 'Address': '204 E 43rd St New York City, NY 10017-4713'}
+{'Name': 'la bonbonniere', 'Address': '28 8th Ave New York City, NY 10014-1803'}
+{'Name': ""Sadelle's"", 'Address': '463 W Broadway New York City, NY 10012-3104'}
+{'Name': 'Whole Foods Market', 'Address': '4 Union Sq S New York City, NY 10003-4196'}
+{'Name': ""Zucker's Bagels & Smoked Fish"", 'Address': '146 Chambers St New York City, NY 10007-1245'}
+{'Name': 'Bistro Les Amis', 'Address': '180 Spring St New York City, NY 10012-3703'}
+{'Name': 'aldea', 'Address': '31 W 17th St New York City, NY 10011-5529'}
+{'Name': 'Beauty & Essex', 'Address': '146 Essex St New York City, NY 10002-2301'}
+{'Name': 'Sant Ambroeus', 'Address': '1000 Madison Ave New York City, NY 10075-1840'}
+{'Name': 'sweetgreen', 'Address': '1164 Broadway New York City, NY 10001-7512'}
+{'Name': ""Nick's"", 'Address': '1814 2nd Ave New York City, NY 10128-5601'}
+{'Name': 'Two Hands', 'Address': '164 Mott St New York City, NY 10013-4277'}
+{'Name': 'Crave Fishbar', 'Address': '945 2nd Ave New York City, NY 10022-7761'}
+{'Name': 'Capizzi', 'Address': '547 9th Ave New York City, NY 10018-1324'}
+{'Name': 'Hourglass Tavern', 'Address': '373 W 46th St New York City, NY 10036-3810'}
+{'Name': 'Il Tinello Ristorante', 'Address': '16 W 56th St New York City, NY 10019-3872'}
+{'Name': 'Match 65 Brasserie', 'Address': '29 E 65th St New York City, NY 10065-6508'}
+{'Name': 'Nobu 57', 'Address': '40 W 57th St New York City, NY 10019-4001'}
+{'Name': 'Hillstone Midtown', 'Address': '153 E 53rd St New York City, NY 10022-4611'}
+{'Name': 'Prince Street Pizza', 'Address': '27 Prince St New York City, NY 10012-3551'}
+{'Name': 'Westville Chelsea', 'Address': '246 W 18th St New York City, NY 10011-4528'}
+{'Name': 'The Meatball Shop', 'Address': '84 Stanton St New York City, NY 10002-1420'}
+{'Name': 'Augustine', 'Address': '5 Beekman St New York City, NY 10038-2206'}
+{'Name': 'Oceana Restaurant', 'Address': '120 W 49th Street New York City, NY 10020'}
+{'Name': 'The Leopard at des Artistes', 'Address': '1 W 67th St New York City, NY 10023-6200'}
+{'Name': 'Blue Dog Kitchen Bar', 'Address': '308 W 50th St New York City, NY 10019-6629'}
+{'Name': ""Amanda's"", 'Address': '908 Washington St Hoboken, NJ 07030-5152'}
+{'Name': 'Faces and Names', 'Address': '159 W 54th St New York City, NY 10019-5302'}
+{'Name': 'New York Yankees Steak House', 'Address': '7 West 51 Street New York City, NY 10019-6910'}
+{'Name': 'Front Street Pizza', 'Address': '80 Front St Brooklyn, NY 11201-1005'}
+{'Name': ""Uncle Paul's Pizza"", 'Address': '70 Vanderbilt Avenue New York City, NY 10017'}
+{'Name': 'The NoMad Restaurant', 'Address': '1170 Broadway New York City, NY 10001-7507'}
+{'Name': '21 Club', 'Address': '21 W 52nd St New York City, NY 10019-6181'}
+{'Name': ""Paul's Da Burger Joint"", 'Address': '131 2nd Ave New York City, NY 10003-8331'}
+{'Name': 'Employees Only', 'Address': '510 Hudson St New York City, NY 10014-2854'}
+{'Name': '99 Cent Fresh Pizza', 'Address': '151 E 43rd St New York City, NY 10017-4017'}
+{'Name': 'Taim Nolita', 'Address': '45 Spring St New York City, NY 10012-4106'}
+{'Name': ""Xi'an Famous Foods"", 'Address': '2675 Broadway New York City, NY 10025-5025'}
+{'Name': 'Cafe Boulud', 'Address': '20 E 76th St New York City, NY 10021-2643'}
+{'Name': 'Guantanamera', 'Address': '939 8th Ave New York City, NY 10019-4264'}
+{'Name': ""Carmine's Italian Restaurant - Upper West Side"", 'Address': '2450 Broadway New York City, NY 10024-1103'}
+{'Name': 'Avra Madison Estiatorio', 'Address': '14 East 60 Street New York City, NY 10022-1006'}
+{'Name': 'Etcetera Etcetera Restaurant', 'Address': '352 W 44th St New York City, NY 10036-5419'}
+{'Name': 'Patzeria Perfect Pizza', 'Address': '231 W 46th St New York City, NY 10036-1409'}
+{'Name': 'Danji', 'Address': '346 W 52nd St New York City, NY 10019-6218'}
+{'Name': 'La Pulperia', 'Address': '371 W 46th St New York City, NY 10036-3969'}
+{'Name': '2 Bros Pizza', 'Address': '31 W 46th St New York City, NY 10036-4102'}
+{'Name': 'Balthazar', 'Address': '80 Spring St New York City, NY 10012-3907'}
+{'Name': ""Bubby's"", 'Address': '120 Hudson St New York City, NY 10013-2317'}
+{'Name': 'Zero Otto Nove', 'Address': '15 W 21st St New York City, NY 10010-6800'}
+{'Name': 'OCabanon', 'Address': '245 W 29th St New York City, NY 10001-5208'}
+{'Name': 'Clinton St. Baking Company & Restaurant', 'Address': '4 Clinton St New York City, NY 10002-1703'}
+{'Name': 'Mudspot', 'Address': '307 E 9th St New York City, NY 10003-7731'}
+{'Name': 'Sweet Chick', 'Address': '164 Bedford Ave Brooklyn, NY 11249-1367'}
+{'Name': 'Bar SixtyFive', 'Address': '30 Rockefeller Plz New York City, NY 10112-0015'}
+{'Name': ""Adrienne's Pizzabar"", 'Address': '54 Stone St New York City, NY 10004-2617'}
+{'Name': ""Dudley's"", 'Address': '85 Orchard St New York City, NY 10002-4564'}
+{'Name': 'The Press Lounge', 'Address': '653 11th Ave New York City, NY 10036-2004'}
+{'Name': 'Tessa', 'Address': '349 Amsterdam Ave New York City, NY 10024-6900'}
+{'Name': 'VIV Thai', 'Address': '717 9th Ave New York City, NY 10019-7388'}
+{'Name': 'Vitae', 'Address': '4 E 46th St New York City, NY 10017'}
+{'Name': ""Friedman's"", 'Address': '132 W 31st St New York City, NY 10001-3406'}
+{'Name': 'Pepolino', 'Address': '281 W Broadway New York City, NY 10013-2204'}
+{'Name': 'Ravagh Persian Grill', 'Address': '1135 1st Ave New York City, NY 10065-7738'}
+{'Name': ""Victor's Cafe"", 'Address': '236 W 52nd St New York City, NY 10019-5822'}
+{'Name': 'The Marshal', 'Address': '628 10th Ave New York City, NY 10036-3022'}
+{'Name': 'Scarpetta', 'Address': '6 Train (33rd or 28th St Stop), New York City, NY 10016-7412'}
+{'Name': 'Bus Stop', 'Address': '597 Hudson St New York City, NY 10014-1876'}
+{'Name': 'La Isla Restaurant', 'Address': '104 Washington St Hoboken, NJ 07030-4604'}
+{'Name': 'Pepe Giallo', 'Address': '195 10th Ave New York City, NY 10001-7014'}
+{'Name': 'Union Square Cafe', 'Address': '101 E 19th St New York City, NY 10003-3104'}
+{'Name': 'Aquavit', 'Address': '65 E 55th St New York City, NY 10022-3219'}
+{'Name': 'Gyu-Kaku Times Square', 'Address': '321 W 44th St New York City, NY 10036-5404'}
+{'Name': ""Luigi's Gourmet Pizza"", 'Address': '936 8th Ave New York City, NY 10019-4203'}
+{'Name': 'Cookshop', 'Address': '156 10th Ave New York City, NY 10011-4758'}
+{'Name': 'Pokeworks', 'Address': '63 W 37th St New York City, NY 10018-6202'}
+{'Name': ""Luke's Lobster- The Plaza"", 'Address': '1 E 59th St New York City, NY 10022-1013'}
+{'Name': ""Foxy John's Bar & Kitchen"", 'Address': '143 E 47th St New York City, NY 10017-2007'}
+{'Name': 'Blue Smoke Battery Park City', 'Address': '255 Vesey St New York City, NY 10282-5800'}
+{'Name': 'Jackson Hole Burgers', 'Address': '521 3rd Avenue New York City, NY 10016'}
+{'Name': ""Clark's Restaurant"", 'Address': '80 Clark St Brooklyn, NY 11201-2402'}
+{'Name': ""Mamoun's Falafel"", 'Address': '119 Macdougal St New York City, NY 10012-1202'}
+{'Name': 'Churrascaria Plataforma', 'Address': '316 W 49th St New York City, NY 10019-7391'}
+{'Name': 'Red Farm', 'Address': '529 Hudson St New York City, NY 10014-6125'}
+{'Name': 'Acqua', 'Address': '21 Peck Slip New York City, NY 10038-1708'}
+{'Name': 'The Mermaid Inn', 'Address': '570 Amsterdam Ave New York City, NY 10024-2817'}
+{'Name': 'ABC Kitchen', 'Address': '35 E 18th St New York City, NY 10003-2003'}
+{'Name': 'Baccarat Hotel Bar', 'Address': '28 W 53rd St New York City, NY 10019-6106'}
+{'Name': 'The Egg Shop', 'Address': '151 Elizabeth St New York City, NY 10012-4602'}
+{'Name': 'Jackson Hole Burgers', 'Address': '232 E 64th St New York City, NY 10065'}
+{'Name': 'The Grand Tier Restaurant', 'Address': '30 Lincoln Center Plaza New York City, NY 10023-6922'}
+{'Name': ""Ruth's Chris Steak House"", 'Address': '148 West 51st Street New York City, NY 10019'}
+{'Name': 'Bread & Butter', 'Address': '213 Park Ave S New York City, NY 10003-1657'}
+{'Name': 'Remi', 'Address': '145 W 53rd St New York City, NY 10019-6005'}
+{'Name': 'Bluestone Lane', 'Address': '55 Greenwich Ave New York City, NY 10014-2794'}
+{'Name': ""Arturo's"", 'Address': '106 W Houston St New York City, NY 10012-2529'}
+{'Name': 'Bourbon Street Bar & Grille', 'Address': '346 W 46th St New York City, NY 10036-3881'}
+{'Name': 'The Meatball Shop', 'Address': '170 Bedford Ave Brooklyn, NY 11249-2906'}
+{'Name': 'The Landmark Tavern', 'Address': '626 11th Ave New York City, NY 10036-2002'}
+{'Name': 'Kang ho Dong Baekjeong', 'Address': '1 E 32nd St New York City, NY 10016-5401'}
+{'Name': 'The Cuban Restaurant and Bar', 'Address': '333 Washington St Hoboken, NJ 07030-4871'}
+{'Name': 'West Side Steakhouse', 'Address': '597 10th Ave New York City, NY 10036-3016'}
+{'Name': '99 Cents Fresh Pizza', 'Address': '1723 Broadway New York City, NY 10019-5214'}
+{'Name': 'Umi Sushi', 'Address': '303 East 56th Street and 118 East 31st Street New York City, NY 10022'}
+{'Name': ""Sarge's Delicatessen & Diner"", 'Address': '548 3rd Ave New York City, NY 10016-3541'}
+{'Name': 'Il Mulino New York', 'Address': '86 W 3rd St New York City, NY 10012-1095'}
+{'Name': 'ABA Turkish Restaurant', 'Address': '325 W 57th St New York City, NY 10019-3105'}
+{'Name': 'Balaboosta', 'Address': '214 Mulberry St New York City, NY 10014-1813'}
+{'Name': 'Peter Luger Steak House', 'Address': '178 Broadway Brooklyn, NY 11211-6131'}
+{'Name': 'Num Pang Sandwich Shop', 'Address': '140 E 41st St New York City, NY 10017-5515'}
+{'Name': 'Crompton Ale House', 'Address': '159WEST W 26th St New York City, NY 10001-6819'}
+{'Name': 'Felice 15 Gold Street', 'Address': '15 Gold St New York City, NY 10038-4803'}
+{'Name': 'Fig & Olive Fifth Avenue', 'Address': '10 E 52nd St New York City, NY 10022-5308'}
+{'Name': 'Avra Estiatorio', 'Address': '141 E 48th St New York City, NY 10017-1223'}
+{'Name': 'Dean and Deluca', 'Address': '156 W 56th St New York City, NY 10019-3800'}
+{'Name': 'Zabar Deli & Gourmet Foods', 'Address': '2245 Broadway New York City, NY 10024-5806'}
+{'Name': 'Prune', 'Address': '54 E 1st St New York City, NY 10003-9313'}
+{'Name': 'Nocello', 'Address': '257 W 55th St New York City, NY 10019-5232'}
+{'Name': 'Hometown Bar-B-Que', 'Address': '454 Van Brunt St Brooklyn, NY 11231-1015'}
+{'Name': '44 & X', 'Address': '622 10th Ave New York City, NY 10036-3004'}
+{'Name': 'Brasserie 8 1/2', 'Address': '9 W 57th St New York City, NY 10019-2701'}
+{'Name': ""Morton's The Steakhouse"", 'Address': '551 5th Ave New York City, NY 10017'}
+{'Name': ""Mighty Quinn's Barbeque"", 'Address': '103 2nd Ave New York City, NY 10003-8336'}
+{'Name': 'Vezzo', 'Address': '178 Lexington Ave New York City, NY 10016-7304'}
+{'Name': 'Great Northern Food', 'Address': '89 E 42nd St New York City, NY 10017-5503'}
+{'Name': 'Fig & Olive', 'Address': '420 W 13th St New York City, NY 10014-1103'}
+{'Name': '9 Ten Restaurant', 'Address': '910 7th Ave New York City, NY 10019-2132'}
+{'Name': 'Whole Foods Market', 'Address': '1095 Avenue of the Americas New York City, NY 10036-6797'}
+{'Name': 'Tommy Bahama Restaurant Bar Store', 'Address': '551 5th Ave New York City, NY 10176-0001'}
+{'Name': 'Black Tap Craft Burgers & Beer', 'Address': '136 W 55th St New York City, NY 10019-5305'}
+{'Name': 'Ivan Ramen', 'Address': '25 Clinton St New York City, NY 10002-1793'}
+{'Name': ""Steve's Pizza"", 'Address': '110 Trinity Pl New York City, NY 10006-1031'}
+{'Name': ""Sean's Bar And Kitchen"", 'Address': '42 W 48th St New York City, NY 10036-1701'}
+{'Name': ""Emmett O'Lunney's Irish Pub"", 'Address': '210 W 50th St New York City, NY 10019-6709'}
+{'Name': 'Hakkasan', 'Address': '311 W 43rd St New York City, NY 10036-6413'}
+{'Name': 'Sakagura', 'Address': '211 E 43rd St New York City, NY 10017-4707'}
+{'Name': 'Roman Nose', 'Address': '125 Newark Ave Jersey City, NJ 07302-2811'}
+{'Name': 'Felidia', 'Address': '243 E 58th St New York City, NY 10022-1201'}
+{'Name': ""Delmonico's"", 'Address': '56 Beaver St New York City, NY 10004-2436'}
+{'Name': 'Grazie', 'Address': '26 E 84th St New York City, NY 10028-0426'}
+{'Name': 'Sparks Steak House', 'Address': '210 E 46th St New York City, NY 10017-2903'}
+{'Name': 'Mozzarella&Vino', 'Address': '33 W 54th St New York City, NY 10019-5417'}
+{'Name': 'Naruto Ramen', 'Address': '1596 3rd Ave New York City, NY 10128-3417'}
+{'Name': 'Natsumi', 'Address': '226 W 50th St New York City, NY 10019-6702'}
+{'Name': 'Malibu Diner', 'Address': '163 W 23rd St New York City, NY 10011-2465'}
+{'Name': 'Quantum Leap Natural Food', 'Address': '226 Thompson St New York City, NY 10012-4838'}
+{'Name': 'Le Bateau Ivre', 'Address': '230 E 51st St New York City, NY 10022-6571'}
+{'Name': 'Nobu', 'Address': '195 Broadway New York City, NY 10007-3100'}
+{'Name': 'Murray Hill Diner', 'Address': '222 Lexington Ave New York City, NY 10016-4604'}
+{'Name': 'Two Tablespoons', 'Address': '230 Park Ave New York City, NY 10169-0005'}
+{'Name': ""Mustang Harry's"", 'Address': '352 7th Ave New York City, NY 10001-5012'}
+{'Name': 'Morimoto', 'Address': '88 10th Ave New York City, NY 10011-4721'}
+{'Name': 'Forno Rosso Pizzeria', 'Address': '327 Gold St Brooklyn, NY 11201-3016'}
+{'Name': 'Trinity Place', 'Address': '115 Broadway New York City, NY 10006-1604'}
+{'Name': ""Don's Bogam BBQ & Wine Bar"", 'Address': '17 E 32nd St New York City, NY 10016-5401'}
+{'Name': 'Penelope', 'Address': '159 Lexington Ave New York City, NY 10016-8154'}
+{'Name': 'Kashkaval Garden', 'Address': '852 9th Ave New York City, NY 10019-4452'}
+{'Name': 'Momofuku Ssam Bar', 'Address': '207 2nd Ave New York City, NY 10003-5797'}
+{'Name': 'Vaucluse', 'Address': '100 E 63rd St New York City, NY 10065'}
+{'Name': 'Bareburger', 'Address': '514 3rd Ave New York City, NY 10016-4700'}
+{'Name': 'Ai Fiori', 'Address': '400 5th Ave New York City, NY 10018-2753'}
+{'Name': 'Blue Ribbon Sushi Bar & Grill', 'Address': '308 W 58th St New York City, NY 10019-1804'}
+{'Name': 'Le Coq Rico NYC', 'Address': '30 E 20th St New York City, NY 10003-1310'}
+{'Name': 'Pi Greek Bakerie', 'Address': '512 Broome St New York City, NY 10013-1608'}
+{'Name': 'Amma', 'Address': '246 E 51st St New York City, NY 10022-6513'}
+{'Name': ""L'Ecole"", 'Address': '462 Broadway New York City, NY 10013-2618'}
+{'Name': 'Zuma', 'Address': '261 Madison Ave New York City, NY 10016-2303'}
+{'Name': 'Al Di La Trattoria', 'Address': '248 5th Ave Brooklyn, NY 11215-1201'}
+{'Name': 'Carve Unique Sandwiches', 'Address': '760 8th Ave New York City, NY 10036-1411'}
+{'Name': 'Motorino', 'Address': '349 E 12th St New York City, NY 10003-7212'}
+{'Name': 'Beer Culture', 'Address': '328 W 45th St New York City, NY 10036-3891'}
+{'Name': 'Benjamin Steakhouse', 'Address': '52 E 41st St New York City, NY 10017-6211'}
+{'Name': 'Totto Ramen', 'Address': '366 W 52nd St New York City, NY 10019-6200'}
+{'Name': 'Nirvana', 'Address': '346 Lexington Ave New York City, NY 10016-0938'}
+{'Name': 'Five Guys', 'Address': '252 W 42nd St New York City, NY 10036-7202'}
+{'Name': ""Tribeca's Kitchen"", 'Address': '200 Church St New York City, NY 10013-3831'}
+{'Name': 'Little Italy Pizza', 'Address': '333 5th Ave New York City, NY 10016-5005'}
+{'Name': 'Riverpark', 'Address': '450 E 29th St New York City, NY 10016-8367'}
+{'Name': 'Pio Pio 6', 'Address': '702 Amsterdam Ave New York City, NY 10025-6903'}
+{'Name': 'Ristorante Morini', 'Address': '1167 Madison Ave New York City, NY 10028-0409'}
+{'Name': 'Birdland', 'Address': '315 W 44th St New York City, NY 10036-5402'}
+{'Name': ""Paola's Restaurant"", 'Address': 'Madison Avenue New York City, NY 10128'}
+{'Name': 'Cock & Bull', 'Address': '23 W 45th St New York City, NY 10036-4900'}
+{'Name': 'Toasties', 'Address': '148 W 49th St New York City, NY 10019-6828'}
+{'Name': 'Olea', 'Address': '171 Lafayette Ave Brooklyn, NY 11238-1019'}
+{'Name': 'Bareburger', 'Address': '535 Laguardia Pl New York City, NY 10012-1402'}
+{'Name': 'Excellent Dumpling House', 'Address': '111 Lafayette St New York City, NY 10013-4105'}
+{'Name': 'Tasty Hand Pulled Noodles', 'Address': '1 Doyers St New York City, NY 10013-5150'}
+{'Name': 'Osteria Morini Manhattan', 'Address': '218 Lafayette St New York City, NY 10012-4021'}
+{'Name': 'The Top of The Standard', 'Address': '848 Washington St New York City, NY 10014-1308'}
+{'Name': 'Five Guys', 'Address': '43 W 55th St New York City, NY 10019-4902'}
+{'Name': 'Molyvos', 'Address': '871 7th Ave New York City, NY 10019-3923'}
+{'Name': 'Saju Bistro', 'Address': '120 W 44th St New York City, NY 10036-4050'}
+{'Name': 'Burger & Lobster', 'Address': '132 W 43rd St New York City, NY 10036-6503'}
+{'Name': 'Maison Harlem', 'Address': '341 Saint Nicholas Ave New York City, NY 10027-7602'}
+{'Name': 'An’nam', 'Address': '234 W 48th St New York City, NY 10036-1540'}
+{'Name': ""Luke's Lobster- Brooklyn Bridge Park"", 'Address': '11 Water St Brooklyn, NY 11201-1332'}
+{'Name': 'Le Parisien', 'Address': '163 E 33rd St New York City, NY 10016-4644'}
+{'Name': 'Friedmans', 'Address': '228 W 47th St New York City, NY 10036-1401'}
+{'Name': 'Pio Pio 8', 'Address': '604 10th Ave New York City, NY 10036-3007'}
+{'Name': 'The Meatball Shop', 'Address': '64 Greenwich Ave New York City, NY 10011-8307'}
+{'Name': ""Luke's Lobster Upper West Side"", 'Address': '426 Amsterdam Ave New York City, NY 10024-5846'}
+{'Name': 'Joe Allen', 'Address': '326 W 46th St New York City, NY 10036-3801'}
+{'Name': 'Pret A Manger', 'Address': '135 W 50th St New York City, NY 10020-1201'}
+{'Name': 'Shake Shack', 'Address': '49 Grand Central Terminal New York City, NY 10017-5622'}
+{'Name': 'Porter House', 'Address': '10 Columbus Cir Ste 4 New York City, NY 10019-1210'}
+{'Name': 'Mari Vanna', 'Address': '41 E 20th St New York City, NY 10003-1324'}
+{'Name': 'Sandwicherie', 'Address': '202 E 42nd St New York City, NY 10017-5808'}
+{'Name': ""Katz's Deli"", 'Address': '205 E Houston Street New York City, NY 10002-1098'}
+{'Name': 'ABC Cocina', 'Address': '38 E 19th St New York City, NY 10003'}
+{'Name': ""John's Coffee Shop"", 'Address': '823 2nd Ave New York City, NY 10017-4501'}
+{'Name': ""Ruby's"", 'Address': '219 Mulberry St New York City, NY 10012-5735'}
+{'Name': 'The Paris Cafe', 'Address': '119 South St New York City, NY 10038-2014'}
+{'Name': 'Quality Meats', 'Address': '57 W 58th St New York City, NY 10019-1630'}
+{'Name': 'Samba Kitchen', 'Address': '661 9th Ave New York City, NY 10036-3659'}
+{'Name': ""Carragher's Pub & Restaurant"", 'Address': '228 W 39th St New York City, NY 10018-4508'}
+{'Name': 'Fresh and Co.', 'Address': '45 W 57th St New York City, NY 10019-3408'}
+{'Name': 'Knickerbocker Bar & Grill', 'Address': '33 University Pl New York City, NY 10003-4512'}
+{'Name': ""Aretsky's Patroon"", 'Address': '160 E 46th St New York City, NY 10017-2632'}
+{'Name': 'BLT Prime', 'Address': '111 E 22nd St New York City, NY 10010-5400'}
+{'Name': 'The Meatball Shop', 'Address': '200 9th Ave New York City, NY 10011-4922'}
+{'Name': 'ilili', 'Address': '236 5th Ave New York City, NY 10001-7606'}
+{'Name': 'Boqueria', 'Address': '171 Spring St New York City, NY 10012-3843'}
+{'Name': ""Johny's Luncheonette"", 'Address': '124 W 25th St New York City, NY 10001-7421'}
+{'Name': 'The Grey Dog', 'Address': '242 W 16th St New York City, NY 10011-6110'}
+{'Name': 'Blue Smoke Flatiron', 'Address': '116 E 27th St New York City, NY 10016-8942'}
+{'Name': 'Shake Shack', 'Address': '1 Old Fulton St Brooklyn, NY 11201-1307'}
+{'Name': 'The Dining Room', 'Address': '1000 5th Ave New York City, NY 10028'}
+{'Name': 'Ear Inn', 'Address': '326 Spring St New York City, NY 10013-1322'}
+{'Name': 'Shake Shack', 'Address': '215 Murray St New York City, NY 10282-5651'}
+{'Name': 'Saxon and Parole', 'Address': '316 Bowery New York City, NY 10012-2802'}
+{'Name': ""P.J. Clarke's"", 'Address': '915 3rd Ave New York City, NY 10022-3767'}
+{'Name': 'Cafe Luxembourg', 'Address': '200 W 70th St New York City, NY 10023-4323'}
+{'Name': 'Yakitori Totto', 'Address': '251 W 55th St New York City, NY 10019-5202'}
+{'Name': 'Toloache', 'Address': '251 W 50th St New York City, NY 10019-6701'}
+{'Name': 'Pret A Manger', 'Address': '857 Broadway New York City, NY 10003-1225'}
+{'Name': 'Shanghai Asian Cuisine', 'Address': '14A Elizabeth St New York City, NY 10013-4802'}
+{'Name': 'Candle Cafe', 'Address': '1307 3rd Ave New York City, NY 10021-3301'}
+{'Name': 'The Kati Roll Company', 'Address': '49 W 39th St New York City, NY 10018-3887'}
+{'Name': 'Lighthorse Tavern', 'Address': '199 Washington St Jersey City, NJ 07302-4527'}
+{'Name': 'Barbuto', 'Address': '775 Washington St New York City, NY 10014-1748'}
+{'Name': 'Havana NY', 'Address': '58 W 38th St New York City, NY 10018-6203'}
+{'Name': 'Trattoria Spaghetto', 'Address': '228 Bleecker St # 232 New York City, NY 10014-4420'}
+{'Name': '2 Bros Pizza', 'Address': '557 8th Ave New York City, NY 10018-4300'}
+{'Name': ""Rossini's Restaurant"", 'Address': '108 E 38th St New York City, NY 10016-2648'}
+{'Name': 'Souvlaki Gr', 'Address': '162 W 56th St New York City, NY 10019-3831'}
+{'Name': 'Davios Northern Italian Steakhouse', 'Address': '447 Lexington Ave New York City, NY 10017-3908'}
+{'Name': 'Cielo at the Mayfair', 'Address': '242 W 49th St New York City, NY 10019-7405'}
+{'Name': ""Scotty's Diner"", 'Address': '336 Lexington Ave New York City, NY 10016-0936'}
+{'Name': 'Pret A Manger', 'Address': '825 8th Ave New York City, NY 10019-7416'}
+{'Name': 'Marta', 'Address': '29 E 29th St New York City, NY 10016-7902'}
+{'Name': 'Cipriani', 'Address': '55 Wall St New York City, NY 10005-2805'}
+{'Name': 'Cowgirl Seahorse', 'Address': '259 Front St New York City, NY 10038-1716'}
+{'Name': 'Shake Shack', 'Address': '1333 Broadway New York City, NY 10018-7204'}
+{'Name': 'City Sandwich', 'Address': '649 9th Ave New York City, NY 10036-3631'}
+{'Name': 'Bocca di Bacco', 'Address': '828 9th Ave New York City, NY 10019-5587'}
+{'Name': 'Central Market', 'Address': '89 E 42nd St New York City, NY 10017-5503'}
+{'Name': 'Margherita NYCe', 'Address': '197 Grand St New York City, NY 10013-3790'}
+{'Name': 'Anejo Tequileria', 'Address': '668 10th Ave. at 47th St. New York City, NY'}
+{'Name': 'Armani Ristorante', 'Address': '717 5th Ave New York City, NY 10022-8101'}
+{'Name': 'Dean & Deluca', 'Address': '1150 Madison Ave New York City, NY 10028-0410'}
+{'Name': 'Tacombi - Nolita', 'Address': '267 Elizabeth St New York City, NY 10012-3530'}
+{'Name': '2 Bros Pizza', 'Address': '542 9th Ave New York City, NY 10018-1302'}
+{'Name': ""Rosemary's"", 'Address': '18 Greenwich Ave New York City, NY 10011-8307'}
+{'Name': 'Pies-N-Thighs', 'Address': '166 S 4th St Brooklyn, NY 11211-5376'}
+{'Name': 'Lupa Osteria Romana', 'Address': '170 Thompson St New York City, NY 10012'}
+{'Name': 'New York Luncheonette', 'Address': '135 E 50th St New York City, NY 10022-7504'}
+{'Name': 'Don Antonio', 'Address': '309 W 50th St New York City, NY 10019-6607'}
+{'Name': 'Ariana Afghan Kabab Restaurant', 'Address': '787 9th Ave New York City, NY 10019-5621'}
+{'Name': 'Calle Ocho', 'Address': '45 W 81st St New York City, NY 10024-6025'}
+{'Name': 'The Smith', 'Address': '55 3rd Ave New York City, NY 10003-5535'}
+{'Name': 'The Palm West Side', 'Address': '250 W 50th St New York City, NY 10019-6743'}
+{'Name': 'Valbella', 'Address': '421 W 13th St New York City, NY 10014-1104'}
+{'Name': 'Rotisserie Georgette', 'Address': '14 E 60th St New York City, NY 10022-1006'}
+{'Name': 'Fresh and Co.', 'Address': '363 7th Ave New York City, NY 10001-3904'}
+{'Name': 'North Square', 'Address': '103 Waverly Pl New York City, NY 10011-9110'}
+{'Name': 'La Esquina', 'Address': '114 Kenmare St New York City, NY 10012-4076'}
+{'Name': 'ViceVersa', 'Address': '325 W 51st St New York City, NY 10019-6424'}
+{'Name': 'The Counter', 'Address': '7 Times Sq New York City, NY 10036-6524'}
+{'Name': 'Estela', 'Address': '47 E Houston St New York City, NY 10012-2749'}
+{'Name': 'Il Brigante', 'Address': '214 Front St New York City, NY 10038-2034'}
+{'Name': 'Terri', 'Address': '60 W 23rd St. New York, NY 10010 New York City, NY 10010-5283'}
+{'Name': 'Aurora', 'Address': '70 Grand St Brooklyn, NY 11249-4111'}
+{'Name': 'Freemans Restaurant', 'Address': '191 Chrystie St New York City, NY 10002-1261'}
+{'Name': 'Emporium Brasil', 'Address': '15 W 46th St New York City, NY 10036-4117'}
+{'Name': ""Friedman's Lunch"", 'Address': '75 9th Ave New York City, NY 10011-7006'}
+{'Name': ""Harry's Cafe & Steak"", 'Address': '1 Hanover Sq New York City, NY 10004-2601'}
+{'Name': 'Niles Bar & Restaurant', 'Address': '371 7th Ave New York City, NY 10001-3984'}
+{'Name': ""Trattoria Dell'Arte"", 'Address': '900 7th Ave New York City, NY 10106-0200'}
+{'Name': 'Pret A Manger', 'Address': '30 Rockefeller Plz New York City, NY 10112-0015'}
+{'Name': ""Mighty Quinn's Barbeque"", 'Address': '75 Greenwich Ave New York City, NY 10014'}
+{'Name': 'The Keg Room', 'Address': 'West 36th Street New York City, NY 10018'}
+{'Name': 'Fat Cat', 'Address': '75 Christopher St New York City, NY 10014-4236'}
+{'Name': 'TAO Downtown', 'Address': '92 9th Ave New York City, NY 10011-5020'}
+{'Name': 'Kung Fu Little Steamed Buns Ramen', 'Address': '811 8th Ave New York City, NY 10019-7418'}
+{'Name': 'Table 87 Coal Oven Pizza', 'Address': '87 Atlantic Ave Brooklyn, NY 11201-5503'}
+{'Name': 'Villa Berulia', 'Address': '107 E 34th St New York City, NY 10016-4601'}
+{'Name': 'Razza Pizza Artigianale', 'Address': '275 Grove St Jersey City, NJ 07302-3601'}
+{'Name': 'The Clam', 'Address': '420 Hudson St New York City, NY 10014-3932'}
+{'Name': 'Juliette', 'Address': '135 N 5th St Brooklyn, NY 11249-3214'}
+{'Name': 'Parker & Quinn', 'Address': '63 W 39th St New York City, NY 10018-3801'}
+{'Name': 'City Diner', 'Address': '31 Montgomery St Jersey City, NJ 07302-3869'}
+{'Name': 'Traif', 'Address': '229 S 4th St Brooklyn, NY 11211-5605'}
+{'Name': 'Ipanema Restaurant', 'Address': '43 W 46th St New York City, NY 10036-4121'}
+{'Name': 'Bistango at the Kimberly Hotel', 'Address': '145 E 50th St New York City, NY 10022-9502'}
+{'Name': 'Strip House', 'Address': '13 East 12th Street New York City, NY 10003'}
+{'Name': ""Artichoke Basille's Pizza"", 'Address': '114 10th Ave New York City, NY 10011-4704'}
+{'Name': 'Pershing Square', 'Address': '90 E 42nd St New York City, NY 10017-5409'}
+{'Name': 'The Roxy Lounge', 'Address': '2 Avenue of the Americas New York City, NY 10013-2401'}
+{'Name': 'Shanghai Asian Manor', 'Address': '21 Mott St New York City, NY 10013-5032'}
+{'Name': 'Metro Diner', 'Address': '2641 Broadway Frnt 1 New York City, NY 10025-5043'}
+{'Name': 'The Milling Room', 'Address': '446 Columbus Ave New York City, NY 10024-5130'}
+{'Name': 'Shake Shack', 'Address': '154 E 86th St New York City, NY 10028-2107'}
+{'Name': 'Bread & Butter Market', 'Address': '419 Park Ave S New York City, NY 10016-8410'}
+{'Name': 'Mariella Pizza', 'Address': '935 8th Ave New York City, NY 10019-4256'}
+{'Name': 'Boqueria', 'Address': '53 W 19th St New York City, NY 10011-4202'}
+{'Name': 'Spyglass', 'Address': '47 W 38th St New York City, NY 10018-5501'}
+{'Name': 'Gaonnuri', 'Address': '1250 Broadway New York City, NY 10001-3701'}
+{'Name': ""Mable's Smokehouse & Banquet Hall"", 'Address': '44 Berry Street Brooklyn, NY 11249'}
+{'Name': 'BXL Cafe', 'Address': '125 W 43rd St New York City, NY 10036-6505'}
+{'Name': 'The Malt House', 'Address': '9 Maiden Ln New York City, NY 10038-4028'}
+{'Name': 'The Harold', 'Address': '1271 Broadway New York City, NY 10001-3508'}
+{'Name': 'The Skylark', 'Address': '200 W 39th St Fl 30 New York City, NY 10018-8242'}
+{'Name': 'Cupping Room Cafe', 'Address': '359 W Broadway New York City, NY 10013-2209'}
+{'Name': 'Cornelia Street Cafe', 'Address': '29 Cornelia St New York City, NY 10014-4127'}
+{'Name': 'Tao', 'Address': '42 E 58th St New York City, NY 10022-1910'}
+{'Name': 'The House of Brews', 'Address': '302 W 51st St New York City, NY 10019-6436'}
+{'Name': 'Trading Post', 'Address': '170 John St New York City, NY 10038-3505'}
+{'Name': 'Raines Law Room', 'Address': '48 W 17th St New York City, NY 10011-5707'}
+{'Name': 'Thai Select', 'Address': '472 9th Ave New York City, NY 10018-5616'}
+{'Name': 'Antica Pesa', 'Address': '115 Berry St Brooklyn, NY 11249-2804'}
+{'Name': 'Jane', 'Address': '100 W Houston St New York City, NY 10012-2547'}
+{'Name': 'Le Rivage', 'Address': '340 W 46th St New York City, NY 10036-3928'}
+{'Name': 'Shake Shack Theater District', 'Address': '691 8th Ave New York City, NY 10036-7107'}
+{'Name': 'Manhattan Diner', 'Address': '2532 Broadway New York City, NY 10025-6957'}
+{'Name': ""Mary's Fish Camp"", 'Address': '64 Charles St New York City, NY 10014-2626'}
+{'Name': 'The Odeon', 'Address': '145 W Broadway New York City, NY 10013-3373'}
+{'Name': 'Shake Shack', 'Address': '409 Fulton St Brooklyn, NY 11201-5103'}
+{'Name': ""Wollensky's Grill"", 'Address': '201 E 49th St New York City, NY 10017-1501'}
+{'Name': 'Isadoras Cafe', 'Address': '16 E 52nd St New York City, NY 10022-5306'}
+{'Name': 'Lincoln Ristorante', 'Address': '142 W 65th St New York City, NY 10023-6903'}
+{'Name': 'Chez Josephine', 'Address': '414 W 42nd St New York City, NY 10036-6806'}
+{'Name': 'Morandi', 'Address': '211 Waverly Pl New York City, NY 10014-2737'}
+{'Name': ""Tiny's & The Bar Upstairs"", 'Address': '135 W Broadway New York City, NY 10013-3305'}
+{'Name': 'Trader Joe', 'Address': '142 E 14th St New York City, NY 10003-4170'}
+{'Name': 'Pret A Manger', 'Address': '1020 Avenue of the Americas New York City, NY 10018-5458'}
+{'Name': 'Koi', 'Address': '40 W 40th St New York City, NY 10018-2602'}
+{'Name': 'Pastrami Queen', 'Address': '1125 Lexington Ave New York City, NY 10075-0429'}
+{'Name': ""Junior's Restaurant & Cheesecake"", 'Address': '1515 Broadway New York City, NY 10036-8901'}
+{'Name': 'Little Park', 'Address': '85 W Broadway New York City, NY 10007-1045'}
+{'Name': 'Almond', 'Address': '12 E 22nd St New York City, NY 10010-6111'}
+{'Name': 'limani', 'Address': '45 Rockefeller Plz New York City, NY 10111-0100'}
+{'Name': 'Gelso & Grand', 'Address': '186 Grand St New York City, NY 10013-3712'}
+{'Name': ""Tony's Di Napoli - Upper East Side"", 'Address': '1081 3rd Ave New York City, NY 10065-7438'}
+{'Name': 'Black Barn', 'Address': '19 E 26th St New York City, NY 10010-1450'}
+{'Name': 'Maysville', 'Address': '17 W 26th St New York City, NY 10010-1003'}
+{'Name': ""Fred's"", 'Address': '476 Amsterdam Ave New York City, NY 10024-5002'}
+{'Name': 'Rosa Mexicano - First Avenue', 'Address': '1063 1st Avenue at 58th St New York City, NY 10022'}
+{'Name': 'Brazil Brazil', 'Address': '328 W 46th St New York City, NY 10036-8390'}
+{'Name': 'The Smith', 'Address': '956 2nd Ave New York City, NY 10022-7805'}
+{'Name': 'Untitled at the Whitney', 'Address': '99 Gansevoort St New York City, NY 10014-1404'}
+{'Name': ""Xi'an Famous Foods"", 'Address': '24 W 45th St New York City, NY 10036-4205'}
+{'Name': 'Lexington Candy Shop', 'Address': '1226 Lexington Ave New York City, NY 10028-1406'}
+{'Name': 'The Three Monkeys', 'Address': '236 W 54th St New York City, NY 10019-5502'}
+{'Name': 'Llama Inn', 'Address': '50 Withers St Brooklyn, NY 11211-1214'}
+{'Name': ""Foley's Pub & Restaurant"", 'Address': '18 W 33rd St New York City, NY 10001-3300'}
+{'Name': 'The Loeb Boathouse at Central Park', 'Address': 'East 72nd St & Park Dr North New York City, NY 10021'}
+{'Name': 'Salumeria Rosi', 'Address': '283 Amsterdam Ave New York City, NY 10023-2103'}
+{'Name': 'Il Buco Alimentari & Vineria', 'Address': '53 Great Jones St New York City, NY 10012-1118'}
+{'Name': 'Tir na Nog', 'Address': '254 W 31st St New York City, NY 10001-2813'}
+{'Name': 'West Bank Cafe', 'Address': '407 W 42nd St New York City, NY 10036-6808'}
+{'Name': ""John's of Times Square"", 'Address': '260 W 44th St New York City, NY 10036-3900'}
+{'Name': 'Dekalb Market Hall', 'Address': '445 Albee Square West Brooklyn, NY 11201-5177'}
+{'Name': ""Coppola's Pizzeria Restaurant"", 'Address': '206 W 79th St New York City, NY 10024-6235'}
+{'Name': 'Marseille', 'Address': '630 9th Ave New York City, NY 10036-3708'}
+{'Name': 'La Contenta', 'Address': '102 Norfolk St New York City, NY 10002-3310'}
+{'Name': 'Bathtub Gin', 'Address': '136 9th Ave New York City, NY 10011-4949'}
+{'Name': 'DB Bistro Moderne', 'Address': '55 W 44th St New York City, NY 10036-6609'}
+{'Name': 'Minetta Tavern', 'Address': '113 Macdougal St New York City, NY 10012-1201'}
+{'Name': 'Liberty House Restaurant', 'Address': '76 Audrey Zapp Dr Jersey City, NJ 07305-4127'}
+{'Name': ""O'Reilly's Bar & Kitchen"", 'Address': '21 W 35th St New York City, NY 10001-2200'}
+{'Name': ""Waldy's Wood Fired Pizza & Penne"", 'Address': '800 Sixth Avenue New York City, NY 10001-6345'}
+{'Name': 'R Lounge at Two Times Square', 'Address': '2 Times Sq New York City, NY 10036-7301'}
+{'Name': 'Marcony', 'Address': '184 Lexington Ave New York City, NY 10016-6839'}
+{'Name': ""Friedman's"", 'Address': '450 10th Ave New York City, NY 10018-1107'}
+{'Name': 'Fette Sau', 'Address': '354 Metropolitan Ave Brooklyn, NY 11211-3308'}
+{'Name': 'New York Beer Company', 'Address': '321 W 44th St New York City, NY 10036-5404'}
+{'Name': ""S'mac"", 'Address': '197 1st Ave New York City, NY 10003-2908'}
+{'Name': 'Benito One', 'Address': '174 Mulberry St New York City, NY 10013-3759'}
+{'Name': 'Norma', 'Address': '438 3rd Ave New York City, NY 10016-6040'}
+{'Name': 'Tender Restaurant', 'Address': '130 W 47th St New York City, NY 10036-1501'}
+{'Name': 'The Rum House', 'Address': '228 W 47th St New York City, NY 10036-1401'}
+{'Name': 'The Ginger Man', 'Address': '11 E 36th St New York City, NY 10016-3318'}
+{'Name': 'Dinosaur Bar-B-Que', 'Address': '604 Union St Brooklyn, NY 11215'}
+{'Name': ""Jack's Wife Freda"", 'Address': '50 Carmine St New York City, NY 10014-6917'}
+{'Name': 'The Crooked Knife', 'Address': '29 E 30th St New York City, NY 10016-7313'}
+{'Name': 'Room Service', 'Address': '690 9th Ave New York City, NY 10036-3665'}
+{'Name': 'I Sodi', 'Address': '105 Christopher St New York City, NY 10014-4213'}
+{'Name': 'Five Guys', 'Address': '316 W 34th St New York City, NY 10001-2401'}
+{'Name': 'Claudette', 'Address': '24 5th Ave New York City, NY 10011-8858'}
+{'Name': '5 Napkin Burger', 'Address': '2315 Broadway New York City, NY 10024'}
+{'Name': 'Da Claudio', 'Address': '21 Ann St New York City, NY 10038-2405'}
+{'Name': 'Foragers', 'Address': '233 8th Ave New York City, NY 10011-1606'}
+{'Name': 'Bond 45 Italian Kitchen & Bar', 'Address': '221 West 46th Street New York City, NY 10036-1409'}
+{'Name': 'Pampano New York', 'Address': '209 E 49th St New York City, NY 10017-1501'}
+{'Name': 'One if by Land, Two if by Sea', 'Address': '17 Barrow St New York City, NY 10014-3823'}
+{'Name': 'Battello', 'Address': '502 Washington Blvd Jersey City, NJ 07310-1608'}
+{'Name': 'Noodle Pudding', 'Address': '38 Henry St Brooklyn, NY 11201-1338'}
+{'Name': 'Nougatine at Jean Georges', 'Address': '1 Central Park W New York City, NY 10023-7703'}
+{'Name': ""Bubby's High Line"", 'Address': '71 Gansevoort St New York City, NY 10014-1411'}
+{'Name': ""O'Lunney's"", 'Address': '145 W 45th St New York City, NY 10036-4008'}
+{'Name': 'Bea', 'Address': '403 W 43rd St New York City, NY 10036-5330'}
+{'Name': 'Fogo de Chao Brazilian Steakhouse', 'Address': '40 W 53rd St New York City, NY 10019-6106'}
+{'Name': 'Rocking Horse Cafe', 'Address': '182 8th Ave New York City, NY 10011-1604'}
+{'Name': 'North End Grill', 'Address': '104 N End Ave New York City, NY 10282-1236'}
+{'Name': 'Temple Court', 'Address': '5 Beekman St New York City, NY 10038-2206'}
+{'Name': 'Refinery Rooftop', 'Address': '63 W 38th St New York City, NY 10018-3818'}
+{'Name': 'Bocado Wine Bar & Restaurant', 'Address': '1293 Lexington Ave New York City, NY 10128-1110'}
+{'Name': 'Turkish Kitchen', 'Address': '386 3rd Ave New York City, NY 10016-9007'}
+{'Name': 'Sticky Rice', 'Address': '85 Orchard St New York City, NY 10002-4564'}
+{'Name': 'Smoke Jazz Club', 'Address': '2751 Broadway New York City, NY 10025-2803'}
+{'Name': 'Red Rooster Harlem', 'Address': '310 Lenox Avenue New York City, NY 10027-4449'}
+{'Name': 'Bar Bacon', 'Address': '836 9th Ave New York City, NY 10019-5554'}
+{'Name': 'Osteria al Doge', 'Address': '142 W 44th St New York City, NY 10036-4013'}
+{'Name': 'Fraunces Tavern Restaurant', 'Address': '54 Pearl St New York City, NY 10004-4300'}
+{'Name': 'Park Avenue Autumn/Winter/Spring/Summer', 'Address': '360 Park Ave S New York City, NY 10010-1710'}
+{'Name': 'Gigino Trattoria', 'Address': '323 Greenwich St New York City, NY 10013-3341'}
+{'Name': 'Tir na Nog', 'Address': '315 W 39th St New York City, NY 10018-1412'}
+{'Name': 'Egg', 'Address': '135 N 5th St Brooklyn, NY 11249-3214'}
+{'Name': 'French Louie', 'Address': '320 Atlantic Ave Brooklyn, NY 11201-5860'}
+{'Name': 'Morrell Wine Bar & Cafe', 'Address': '1 Rockefeller Plz New York City, NY 10020-2003'}
+{'Name': 'Hunt & Fish Club', 'Address': '125 W 44th St New York City, NY 10036-4012'}
+{'Name': 'P.S. Kitchen', 'Address': '246 W 48th St New York City, NY 10036-1424'}
+{'Name': 'Shake Shack', 'Address': '170 Flatbush Ave Brooklyn, NY 11217-2019'}
+{'Name': ""Benny Tudino's"", 'Address': '622 Washington St Hoboken, NJ 07030-4908'}
+{'Name': 'Frankies Spuntino 457', 'Address': '457 Court St Brooklyn, NY 11231-4010'}
+{'Name': 'Comfort Diner', 'Address': '214 E 45th St New York City, NY 10017-3302'}
+{'Name': 'Ootoya', 'Address': '141 W 41st St New York, NY 10036 New York City, NY 10036'}
+{'Name': 'Basta Pasta', 'Address': '37 W 17th St New York City, NY 10011-5503'}
+{'Name': 'The Grey Dog', 'Address': '90 University Pl New York City, NY 10003-4665'}
+{'Name': 'Casa Lever', 'Address': '390 Park Ave New York City, NY 10022-4608'}
+{'Name': 'Bull & Bear Steakhouse', 'Address': '570 Lexington Ave New York City, NY 10022-6837'}
+{'Name': 'Food Emporium', 'Address': '810 8th Ave New York City, NY 10019-7410'}
+{'Name': 'Broome Street Bar', 'Address': '363 W Broadway New York City, NY 10013-2209'}
+{'Name': 'Apotheke', 'Address': '9 Doyers St New York City, NY 10013-5117'}
+{'Name': ""dell'anima"", 'Address': '38 8th Ave New York City, NY 10014-1803'}
+{'Name': 'Cafe Cluny', 'Address': '284 W 12th St New York City, NY 10014-6005'}
+{'Name': 'Risotteria Melotti NYC', 'Address': '309 E 5th St New York City, NY 10003-8825'}
+{'Name': 'Jams Restaurant', 'Address': '1414 Avenue of the Americas New York City, NY 10019-2514'}
+{'Name': 'Clement at The Peninsula New York', 'Address': '700 Fifth Avenue at 55th Street New York City, NY 10019'}
+{'Name': 'Hundred Acres', 'Address': '38 Macdougal St New York City, NY 10012-2940'}
+{'Name': 'Il Buco', 'Address': '47 Bond St New York City, NY 10012-2450'}
+{'Name': 'Main Noodle House', 'Address': '1011 Avenue of the Americas New York City, NY 10018-5516'}
+{'Name': 'Le Gigot', 'Address': '18 Cornelia St New York City, NY 10014-4138'}
+{'Name': 'Kodama Sushi', 'Address': '301 W 45th St New York City, NY 10036-3822'}
+{'Name': 'Locanda Verde', 'Address': '377 Greenwich St New York City, NY 10013-2338'}
+{'Name': 'Aureole', 'Address': '135 W 42nd St New York City, NY 10036-6509'}
+{'Name': 'Old Town Bar', 'Address': '45 E 18th St New York City, NY 10003-2003'}
+{'Name': 'Barbounia', 'Address': '250 Park Ave S New York City, NY 10003-1402'}
+{'Name': ""Virgil's Real BBQ - Time Square"", 'Address': '152 W 44th St New York City, NY 10036'}
+{'Name': 'Charlie Palmer Steak', 'Address': '47 West 38th Street New York City, NY 10018'}
+{'Name': 'Shake Shack', 'Address': '366 Columbus Ave New York City, NY 10024-5109'}
+{'Name': 'Quality Italian', 'Address': '57 W 57th St New York City, NY 10019-2802'}
+{'Name': 'MarkJoseph Steakhouse', 'Address': '261 Water St New York City, NY 10038-1714'}
+{'Name': 'Famous Amadeus Pizza', 'Address': '840 8th Ave New York City, NY 10019-6647'}
+{'Name': 'Casa Mono', 'Address': '52 Irving Pl New York City, NY 10003'}
+{'Name': ""McHale's Bar & Grill"", 'Address': '251 W 51st St New York City, NY 10019-6261'}
+{'Name': 'Joseph Leonard', 'Address': '170 Waverly Pl New York City, NY 10014-3845'}
+{'Name': 'Maloney & Porcelli', 'Address': '37 E 50th St New York City, NY 10022-6820'}
+{'Name': 'Westville', 'Address': '210 W 10th St New York City, NY 10014-6411'}
+{'Name': 'Melt Shop', 'Address': '135 W 50th St New York City, NY 10020'}
+{'Name': 'Peasant', 'Address': '194 Elizabeth St New York City, NY 10012-4255'}
+{'Name': 'Rana', 'Address': 'Chelsea Piers New York City, NY 10011-1015'}
+{'Name': 'Souvlaki GR', 'Address': '116 Stanton St New York City, NY 10002-1500'}
+{'Name': ""Molly's Pub & Restaurant"", 'Address': '287 3rd Ave New York City, NY 10010-5503'}
+{'Name': 'Dicksons Farmstand Meats', 'Address': 'Chelsea Piers New York City, NY 10011-1015'}
+{'Name': 'Banc Cafe', 'Address': '431 3rd Ave New York City, NY 10016-6026'}
+{'Name': '5 Napkin Burger', 'Address': '150 E 14th St New York City, NY 10003'}
+{'Name': 'Havana Central Times Square', 'Address': '151 W 46th St New York City, NY 10036-8512'}
+{'Name': 'Pongsri Thai Restaurant', 'Address': '244 W 48th St New York City, NY 10036-5603'}
+{'Name': 'Pazza Notte', 'Address': '1375 Avenue of the Americas New York City, NY 10019-3811'}
+{'Name': 'CHO DANG GOL', 'Address': '55 W 35th St New York City, NY 10001-2219'}
+{'Name': 'Gotham West Market', 'Address': '600 11th Ave New York City, NY 10036-2102'}
+{'Name': 'Asiate', 'Address': '80 Columbus Cir New York City, NY 10023-5800'}
+{'Name': 'Tasty Cafe', 'Address': '126 Madison Ave Frnt 2 New York City, NY 10016-7040'}
+{'Name': 'Hama Japanese Cuisine', 'Address': '11 W 51st St New York City, NY 10019-6994'}
+{'Name': 'Black Tap Craft Burgers & Beer', 'Address': '248 W 14th St New York City, NY 10011-7243'}
+{'Name': 'Community Food & Juice', 'Address': '2893 Broadway New York City, NY 10025-7820'}
+{'Name': 'Good Enough to Eat', 'Address': '520 Columbus Ave New York City, NY 10024-3404'}
+{'Name': 'Russian Vodka Room', 'Address': '265 W 52nd St New York City, NY 10019-5803'}
+{'Name': 'Cafe Gitane', 'Address': '242 Mott St New York City, NY 10012-3434'}
+{'Name': ""Ellen's Stardust Diner"", 'Address': '1650 Broadway New York City, NY 10019-6833'}
+{'Name': 'Le Bilboquet', 'Address': '20 E 60th St New York City, NY 10022-1011'}
+{'Name': 'The Sea Grill', 'Address': '19 W 49th St New York City, NY 10020-2206'}
+{'Name': 'Agern', 'Address': '89 E 42nd St New York City, NY 10017-5503'}
+{'Name': ""Johnny Rocket's Diner"", 'Address': '930 3rd Ave New York City, NY 10022-3601'}
+{'Name': 'Lattanzi Ristorante', 'Address': '361 W 46th St New York City, NY 10036-3805'}
+{'Name': 'My Pie Pizzeria Romana', 'Address': '696 Lexington Ave New York City, NY 10022-2608'}
+{'Name': 'Totto Ramen Next Door', 'Address': '52nd St Btn 8th and 9th New York City, NY'}
+{'Name': 'El Parador Cafe', 'Address': '325 E 34th St New York City, NY 10016-4928'}
+{'Name': 'Antique Garage', 'Address': '41 Mercer St New York City, NY 10013-2617'}
+{'Name': 'Remedy Diner', 'Address': '245 E Houston St New York City, NY 10002-1013'}
+{'Name': 'Fanelli Cafe', 'Address': '94 Prince St New York City, NY 10012-3993'}
+{'Name': 'Harlem Shake', 'Address': '100 W 124th St New York City, NY 10027-4971'}
+{'Name': 'Porto Leggero', 'Address': 'Harborside Financial Center - Plaza 5 Jersey City, NJ 07311'}
+{'Name': 'The Stagecoach Tavern', 'Address': '834 7th Ave New York City, NY 10019-5811'}
+{'Name': 'Eataly Downtown', 'Address': '101 Liberty St New York City, NY 10006-1403'}
+{'Name': 'Cafe Fiorello', 'Address': '1900 Broadway New York City, NY 10023-7004'}
+{'Name': 'Whole Foods Market', 'Address': '95 E Houston St New York City, NY 10002-1002'}
+{'Name': 'Very Fresh Noodles', 'Address': '425 W 15th St New York City, NY 10011-7098'}
+{'Name': ""Vanessa's Dumpling House"", 'Address': '118 Eldridge St New York City, NY 10002-4418'}
+{'Name': 'Strip House', 'Address': '15 West 44th Street New York City, NY 10036'}
+{'Name': 'Rosa Mexicano - Lincoln Center', 'Address': '61 Columbus Ave New York City, NY 10023-6901'}
+{'Name': 'The Smith', 'Address': '1900 Broadway New York City, NY 10023-7004'}
+{'Name': 'Speedy Deli', 'Address': '1271 Broadway Frnt 1 New York City, NY 10001-3508'}
+{'Name': 'Park Avenue Tavern', 'Address': '99 Park Ave New York City, NY 10016-1601'}
+{'Name': 'Amarone NY', 'Address': '686 9th Ave New York City, NY 10036'}
+{'Name': 'Giano', 'Address': '126 E 7th St New York City, NY 10009-6128'}
+{'Name': 'Sushi Nakazawa', 'Address': '23 Commerce St New York City, NY 10014-3763'}
+{'Name': 'Le Pain Quotidien', 'Address': '922 7th Ave New York City, NY 10019-1555'}
+{'Name': 'Little Italy Pizza', 'Address': '2 E 33rd St New York City, NY 10016-5003'}
+{'Name': ""Amy Ruth's Home Style Southern Cuisine"", 'Address': '113 W 116th St New York City, NY 10026-2521'}
+{'Name': 'Maria Pia', 'Address': '319 W 51st St New York City, NY 10019-6441'}
+{'Name': 'Fresco by Scotto', 'Address': '34 E 52nd St New York City, NY 10022-5914'}
+{'Name': 'The Fat Radish', 'Address': '17 Orchard St New York City, NY 10002-6164'}
+{'Name': 'Kiki’s', 'Address': '130 Division St New York City, NY 10002-6104'}
+{'Name': 'Uva', 'Address': '1486 2nd Ave New York City, NY 10075-1399'}
+{'Name': 'Tavola', 'Address': '488 9th Ave New York City, NY 10018-4128'}
+{'Name': 'Hu Kitchen', 'Address': '78 Fifth Avenue New York City, NY 10028-2167'}
+{'Name': ""Sylvia's Restaurant"", 'Address': '328 Malcolm X Blvd New York City, NY 10027-3702'}
+{'Name': 'The Clocktower', 'Address': '5 Madison Ave New York City, NY 10010-3678'}
+{'Name': 'Trademark Taste + Grind', 'Address': '38 W 36th St New York City, NY 10018'}
+{'Name': 'burger joint', 'Address': '119 W 56th St New York City, NY 10019-4000'}
+{'Name': 'Brooklyn Diner', 'Address': '212 W 57th St New York City, NY 10019-3200'}
+{'Name': 'Blooms Cafe', 'Address': '350 Lexington Ave New York City, NY 10016-1723'}
+{'Name': ""Uncle Boon's"", 'Address': '7 Spring St New York City, NY 10012-4224'}
+{'Name': '44 1/2', 'Address': '626 10th Ave New York City, NY 10036-3036'}
+{'Name': 'The Irish Pub', 'Address': '837 7th Ave New York City, NY 10019-6001'}
+{'Name': 'Il Cortile Restaurant', 'Address': '125 Mulberry St New York City, NY 10013'}
+{'Name': 'The Stanton Social', 'Address': '99 Stanton St New York City, NY 10002-1405'}
+{'Name': 'Obao', 'Address': '647 9th Ave New York City, NY 10036-3661'}
+{'Name': 'Bistro Milano', 'Address': '1350 Avenue of the Americas New York City, NY 10019-4702'}
+{'Name': 'Chocolate by the Bald Man, Max Brenner', 'Address': '841 Broadway New York City, NY 10003-4704'}
+{'Name': 'Monkey Bar', 'Address': '60 E 54th St New York City, NY 10022-4612'}
+{'Name': 'Azalea Ristorante', 'Address': '224 W 51st St New York City, NY 10019-6202'}
+{'Name': 'Five Leaves', 'Address': '18 Bedford Ave Brooklyn, NY 11222-3102'}
+{'Name': 'Pret', 'Address': '62 W 45th St New York City, NY 10036-4208'}
+{'Name': ""Connolly's Pub & Restaurant"", 'Address': '121 W 45th St New York City, NY 10036'}
+{'Name': 'Bodrum Mediterranean Restaurant', 'Address': '584 Amsterdam Ave New York City, NY 10024-2302'}
+{'Name': 'Crif Dogs', 'Address': '113 Saint Marks Pl New York City, NY 10009-5161'}
+{'Name': ""Big Daddy's"", 'Address': '239 Park Ave S New York City, NY 10003-1403'}
+{'Name': 'Pod 39', 'Address': '145 E 39th St New York City, NY 10016-0913'}
+{'Name': 'GMT Tavern', 'Address': '142 Bleecker St New York City, NY 10012-1404'}
+{'Name': 'The Palm Too', 'Address': '840 Second Ave New York City, NY 10017-4370'}
+{'Name': 'Tomino - Taberna Gallega', 'Address': '192 Grand St New York City, NY 10013-3712'}
+{'Name': 'Atlantic Grill', 'Address': '49 West 64th Street New York City, NY 10023'}
+{'Name': 'Dim Sum Palace', 'Address': '334 W 46th St New York City, NY 10036-3883'}
+{'Name': 'Nix', 'Address': '72 University Pl New York City, NY 10003-4540'}
+{'Name': 'Redeye Grill', 'Address': '890 7th Avenue at 56th Street New York City, NY 10019-3203'}
+{'Name': 'Champs Diner', 'Address': '197 Meserole St Brooklyn, NY 11206-2229'}
+{'Name': 'Jacob Restaurant', 'Address': '373 Lennox Avenue New York City, NY 10027'}
+{'Name': ""Aunt Jake's NYC"", 'Address': '151 Mulberry St New York City, NY 10013-4721'}
+{'Name': ""Cafe d'Alsace"", 'Address': '1695 2nd Ave New York City, NY 10128-3219'}
+{'Name': 'Hendriks', 'Address': '557 3rd Ave New York City, NY 10016-3501'}
+{'Name': ""Le Relais de Venise L'Entrecote Midtown East"", 'Address': '590 Lexington Ave New York City, NY 10154-3301'}
+{'Name': 'Bread & Tulips', 'Address': '365 Park Ave S New York City, NY 10016-8801'}
+{'Name': 'Periyali', 'Address': '35 W 20th St New York City, NY 10011-3709'}
+{'Name': 'Le District', 'Address': '225 Liberty St New York City, NY 10281-1048'}
+{'Name': 'TORST', 'Address': '615 Manhattan Ave Brooklyn, NY 11222-3919'}
+{'Name': 'Gotham Pizza', 'Address': '852 8th Ave New York City, NY 10019-6244'}
+{'Name': 'La Gioconda', 'Address': '226 E 53rd St New York City, NY 10022-5207'}
+{'Name': 'Brownstone Diner & Pancake', 'Address': '426 Jersey Ave Jersey City, NJ 07302-4347'}
+{'Name': 'Ninja New York', 'Address': '25 Hudson St New York City, NY 10013-3802'}
+{'Name': 'Inakaya', 'Address': '231 W 40th St New York City, NY 10018-1502'}
+{'Name': 'Taverna di Bacco', 'Address': '175 Ludlow St New York City, NY 10002-1548'}
+{'Name': 'Cheri', 'Address': '231 Lenox Ave New York City, NY 10027-6496'}
+{'Name': ""Sam's Place"", 'Address': '132 E 39th St. New York City, NY 10016-0914'}
+{'Name': 'King Cole Bar', 'Address': '2 E 55th St New York City, NY 10022-3103'}
+{'Name': 'Delicatessen', 'Address': '54 Prince St New York City, NY 10012-3309'}
+{'Name': 'Ritz Diner', 'Address': '1133 1st Ave New York City, NY 10065-7760'}
+{'Name': 'Naya Mezze & Grill', 'Address': '1057 2nd Ave New York City, NY 10022-4068'}
+{'Name': 'Alta', 'Address': '64 W 10th St New York City, NY 10011-8702'}
+{'Name': 'Fresh & Co', 'Address': '681 Lexington Ave New York City, NY 10022-2625'}
+{'Name': 'Wine 30', 'Address': '41 E 30th St New York City, NY 10016-7311'}
+{'Name': 'Sushi of Gari 46', 'Address': '347 W 46th St New York City, NY 10036-3815'}
+{'Name': 'Treehaus', 'Address': '830 3rd Ave New York City, NY 10022-7523'}
+{'Name': 'The Smith', 'Address': '1150 Broadway New York City, NY 10001-7692'}
+{'Name': 'Sangria 46', 'Address': '338 W 46th St New York City, NY 10036-3885'}
+{'Name': 'Ceci Italian Cuisine', 'Address': '46 W 46th St New York City, NY 10036-4508'}
+{'Name': 'Obica Mozzarella Bar - Flatiron', 'Address': '928 Broadway New York City, NY 10010-6008'}
+{'Name': ""Frankie & Johnnie's Steakhouse"", 'Address': '32 W 37th St New York City, NY 10018-7477'}
+{'Name': 'Tavern on the Green', 'Address': '67th Street & Central Park West New York City, NY 10023'}
+{'Name': 'Pick A Bagel', 'Address': '102 N End Ave New York City, NY 10282-1238'}
+{'Name': 'Shake Shack', 'Address': '300 W 44th St New York City, NY 10036-5419'}
+{'Name': 'Bar Primi', 'Address': '325 Bowery New York City, NY 10003-8962'}
+{'Name': 'Lure Fishbar', 'Address': '142 Mercer St New York City, NY 10012-3212'}
+{'Name': 'EN Japanese Brasserie', 'Address': '435 Hudson St New York City, NY 10014-3941'}
+{'Name': 'El Vez and Burrito Bar', 'Address': '259 Vesey St New York City, NY 10282'}
+{'Name': 'Greek Kitchen', 'Address': '889 10th Ave New York City, NY 10019-1030'}
+{'Name': 'Hill Country Barbecue Market', 'Address': '30 W 26th St New York City, NY 10010-2011'}
+{'Name': 'Circo', 'Address': '120 W 55th St New York City, NY 10019-5305'}
+{'Name': 'Ootoya', 'Address': '8 W 18th St New York City, NY 10011-4602'}
+{'Name': 'West End Bar & Grill', 'Address': '813 8th Ave New York City, NY 10019-7418'}
+{'Name': 'Nizza', 'Address': '630 9th Ave New York City, NY 10036-3708'}
+{'Name': ""John's of 12th Street"", 'Address': '302 E 12th St New York City, NY 10003-7255'}
+{'Name': 'Neapolitan Express', 'Address': '40 Wall St New York City, NY 10005-1304'}
+{'Name': 'Clover Club', 'Address': '210 Smith St Brooklyn, NY 11201-6437'}
+{'Name': ""Patsy's Pizza"", 'Address': '2287 1st Ave New York City, NY 10035-5010'}
+{'Name': ""Pete's Tavern"", 'Address': '129 E 18th St New York City, NY 10003-2401'}
+{'Name': 'Malatesta Trattoria', 'Address': '649 Washington St New York City, NY 10014-2865'}
+{'Name': 'Lips', 'Address': '227 E 56th St New York City, NY 10022-3754'}
+{'Name': 'Tonic Times Square', 'Address': '727 7th Ave New York City, NY 10019-6805'}
+{'Name': 'Radegast Hall & Biergarten', 'Address': '113 N 3rd St Brooklyn, NY 11249-3923'}
+{'Name': 'Hudson Clearwater', 'Address': '447 Hudson St New York City, NY 10014-3730'}
+{'Name': 'Baker & Co', 'Address': '259 Bleecker St New York City, NY 10014-4103'}
+{'Name': 'Lafayette Grand Cafe and Bakery', 'Address': '380 Lafayette St New York City, NY 10003-6933'}
+{'Name': 'New Wonjo Restaurant', 'Address': '23 W 32nd St New York City, NY 10001-3801'}
+{'Name': 'Ovest Pizzoteca', 'Address': '513 W 27th St New York City, NY 10001-1155'}
+{'Name': 'Kiss My Slice', 'Address': '274 W 40th St New York City, NY 10018-1519'}
+{'Name': 'Elmo', 'Address': '156 7th Ave New York City, NY 10011-1813'}
+{'Name': 'Gigino Wagner Park', 'Address': '20 Battery Pl New York City, NY 10004-1002'}
+{'Name': 'Wo Hop', 'Address': '17 Mott St New York City, NY 10013-5029'}
+{'Name': 'Chai Thai Kitchen', 'Address': '930 8th Ave New York City, NY 10019-4224'}
+{'Name': 'The Irish American Pub', 'Address': '17 John St New York City, NY 10038-4010'}
+{'Name': 'Chipotle Mexican Grill', 'Address': '350 5th Ave New York City, NY 10118-0110'}
+{'Name': 'Cowgirl', 'Address': '519 Hudson St New York City, NY 10014-2601'}
+{'Name': ""Angelo's Pizza"", 'Address': '117 W 57th St New York City, NY 10019-2209'}
+{'Name': 'Lucali', 'Address': '575 Henry St Brooklyn, NY 11231-2707'}
+{'Name': 'Nano Ecuadorian Kitchen', 'Address': '691 10th Ave New York City, NY 10036-2935'}
+{'Name': 'At Nine Restaurant & Bar', 'Address': '592 9th Ave New York City, NY 10036-3737'}
+{'Name': 'Meme Mediterranean', 'Address': '10th Avenue New York City, NY 10036'}
+{'Name': 'Cherche Midi', 'Address': '282 Bowery New York City, NY 10012-3674'}
+{'Name': 'Wok To Walk', 'Address': '570 8th Ave New York City, NY 10018-3001'}
+{'Name': 'Atoboy', 'Address': '43 E 28th St New York City, NY 10016-7921'}
+{'Name': ""Nino's 46"", 'Address': '39 W 46th St New York City, NY 10036-4130'}
+{'Name': 'Kashkaval', 'Address': '856 9th Ave New York City, NY 10019-4451'}
+{'Name': 'Cafe China', 'Address': '13 E 37th St New York City, NY 10016-2821'}
+{'Name': ""Clyde Frazier's Wine and Dine"", 'Address': '485 10th Ave New York City, NY 10018-1117'}
+{'Name': 'Tia Pol', 'Address': '205 10th Ave New York City, NY 10011-4719'}
+{'Name': 'Le Colonial', 'Address': '149 E 57th St New York City, NY 10022-2101'}
+{'Name': 'Rocco Steakhouse', 'Address': '72 Madison Ave New York City, NY 10016-8731'}
+{'Name': 'Numero 28 Pizzeria Napoletana', 'Address': '176 2nd Ave New York City, NY 10003-5738'}
+{'Name': 'Cafe Duke', 'Address': '140 W 51st St New York City, NY 10020-1203'}
+{'Name': ""Walker's"", 'Address': '16 N Moore St New York City, NY 10013-2415'}
+{'Name': 'Tappo Thin Crust Pizza', 'Address': '49 W 24th St New York City, NY 10010-3206'}
+{'Name': 'The House of Brews', 'Address': '363 W 46th St New York City, NY 10036-3818'}
+{'Name': 'Triomphe', 'Address': '49 W 44th St New York City, NY 10036-6613'}
+{'Name': 'Cacio e Pepe', 'Address': '182 2nd Ave New York City, NY 10003-5734'}
+{'Name': 'Yemen Cafe and Restaurant', 'Address': '176 Atlantic Ave Brooklyn, NY 11201-5656'}
+{'Name': 'Bistro Vendome', 'Address': '405 E 58th St New York City, NY 10022-2302'}
+{'Name': 'Briciola', 'Address': '370 W 51st St New York City, NY 10019-6403'}
+{'Name': 'Maialino Resturant', 'Address': '2 Lexington Ave New York City, NY 10010-5405'}
+{'Name': 'Westside Market NYC', 'Address': '2171 Broadway New York City, NY 10024-6603'}
+{'Name': 'Extra Virgin', 'Address': '259 W 4th St New York City, NY 10014-3205'}
+{'Name': 'Cafe Manhattan', 'Address': '35 W 45th St between 5th and 6th avenue New York City, NY 10036'}
+{'Name': 'Shake Shack', 'Address': '600 3rd Ave New York City, NY 10016-1901'}
+{'Name': ""Miss Lily's"", 'Address': '132 W Houston St New York City, NY 10012-2651'}
+{'Name': 'Pomodoro Rosso', 'Address': '229 Columbus Ave New York City, NY 10023-4007'}
+{'Name': 'Glass House Tavern', 'Address': '252 W 47th St New York City, NY 10036-1415'}
+{'Name': 'HB Burger', 'Address': '127 W 43rd St New York City, NY 10036-6565'}
+{'Name': ""Lil' Frankie's Pizza"", 'Address': '19 1st Ave New York City, NY 10003-9431'}
+{'Name': ""The Butcher's Daughter"", 'Address': '19 Kenmare St New York City, NY 10012-4633'}
+{'Name': 'Rosa Mexicano - Union Square', 'Address': '9 E 18th St New York City, NY 10003-1903'}
+{'Name': 'Le Grainne Cafe', 'Address': '183 9th Ave New York City, NY 10011-4906'}
+{'Name': ""Jack Doyle's"", 'Address': '240 W 35th St New York City, NY 10001-2506'}
+{'Name': 'Five Guys', 'Address': '36 W 48th St New York City, NY 10036-1809'}
+{'Name': 'Bubba Gump Shrimp Co.', 'Address': '1501 Broadway New York City, NY 10036'}
+{'Name': 'The Grange Bar & Eatery', 'Address': '1635 Amsterdam Ave New York City, NY 10031-6103'}
+{'Name': 'LA SIRENE', 'Address': '558 Broome St New York City, NY 10013-1508'}
+{'Name': ""Pig 'n' Whistle"", 'Address': '144 W 46th St New York City, NY 10036-8509'}
+{'Name': 'Bella Blu', 'Address': '967 Lexington Ave New York City, NY 10021-5103'}
+{'Name': ""Dalton's Bar & Grill"", 'Address': '611 9th Ave New York City, NY 10036-3732'}
+{'Name': ""Danny's Gourmet"", 'Address': '224 W 47th St New York City, NY 10036-1411'}
+{'Name': 'Creamline', 'Address': '75 9th Ave New York City, NY 10011-7006'}
+{'Name': 'Manzo', 'Address': '200 5th Ave New York City, NY 10010-3302'}
+{'Name': ""O'Reilly's Pub & Restaurant"", 'Address': '54 W 31st St New York City, NY 10001-3410'}
+{'Name': 'Bann', 'Address': '350 W 50th St New York City, NY 10019-6664'}
+{'Name': 'Casa Nonna', 'Address': '310 W 38th St New York City, NY 10018-3074'}
+{'Name': 'Nippori', 'Address': '245 W 51st St New York City, NY 10019-6214'}
+{'Name': 'Omai', 'Address': '158 9th Ave New York City, NY 10011-4912'}
+{'Name': 'Blue Fin', 'Address': '1567 Broadway New York City, NY 10036'}
+{'Name': ""Emmett's"", 'Address': '50 Macdougal St New York City, NY 10012-2938'}
+{'Name': 'Cask Bar + Kitchen', 'Address': '167 E 33rd St New York City, NY 10016-4641'}
+{'Name': 'Peacock Alley', 'Address': '301 Park Ave New York City, NY 10022-6844'}
+{'Name': 'Friend of a Farmer', 'Address': '77 Irving Pl New York City, NY 10003-2203'}
+{'Name': 'Haru', 'Address': '229 W 43rd St New York City, NY 10036-3913'}
+{'Name': 'Tout Va Bien', 'Address': '311 W 51st St New York City, NY 10019-6408'}
+{'Name': 'Macao Trading Co', 'Address': '311 Church St New York City, NY 10013-2491'}
+{'Name': 'District Tap House', 'Address': '246 W 38th St New York City, NY 10018-5805'}
+{'Name': 'Merchants River House', 'Address': '375 S End Ave New York City, NY 10280-1014'}
+{'Name': 'Fire & Oak - Jersey City', 'Address': '479 Washington Blvd Jersey City, NJ 07310-1972'}
+{'Name': 'Los Mariscos', 'Address': '409 W 15th St New York City, NY 10011-7003'}
+{'Name': ""Lusardi's Restaurant"", 'Address': '1494 2nd Ave New York City, NY 10075-1346'}
+{'Name': 'Oatmeals', 'Address': '120 W 3rd St New York City, NY 10012-1235'}
+{'Name': ""Ted's Montana Grill"", 'Address': '110 W 51st St New York City, NY 10020-1201'}
+{'Name': 'Morning Star Cafe', 'Address': '949 2nd Ave New York City, NY 10022-7781'}
+{'Name': 'Ella Kitchen and Bar', 'Address': '249 Columbus Ave New York City, NY 10023-3330'}
+{'Name': 'The Red Flame Diner', 'Address': '67 W 44th St New York City, NY 10036-6613'}
+{'Name': 'Topaz Thai Restaurant', 'Address': '127 W 56th St New York City, NY 10019-3809'}
+{'Name': ""Please Don't Tell"", 'Address': '113 St. Marks Place New York City, NY'}
+{'Name': 'Candle Cafe West', 'Address': '2427 Broadway New York City, NY 10024-1706'}
+{'Name': 'Pappardella', 'Address': '316 Columbus Ave New York City, NY 10023-1902'}
+{'Name': 'Wasabi Sushi & Bento', 'Address': '561 7th Avenue New York City, NY 10036'}
+{'Name': 'La Pecora Bianca', 'Address': '1133 Broadway New York City, NY 10010-7903'}
+{'Name': 'Tarallucci e Vino Union Square', 'Address': '15 E 18th St New York City, NY 10003-1903'}
+{'Name': 'Perilla', 'Address': '9 Jones St New York City, NY 10014-4162'}
+{'Name': ""O'Donoghue's Pub and Restaurant"", 'Address': '156 W 44th St New York City, NY 10036-4024'}
+{'Name': ""O'Brien's Irish Pub & Restaurant"", 'Address': '134 W 46th St New York City, NY 10036-8504'}
+{'Name': 'Kellari Taverna', 'Address': '19 W 44th St New York City, NY 10036-5902'}
+{'Name': 'Famous Famiglia Pizzeria', 'Address': '488 8th Avenue at 34th Street New York City, NY 10123'}
+{'Name': 'VYNL', 'Address': '756 9th Ave New York City, NY 10019-6633'}
+{'Name': 'Sofia Wine Bar and Cafe', 'Address': '242 E 50th St New York City, NY 10022-7763'}
+{'Name': 'Tri Tip Grill', 'Address': '30 Rockefeller Plz New York City, NY 10112-0015'}
+{'Name': ""Bobby Van's Steakhouse - 50th Street"", 'Address': '135 W 50th St New York City, NY 10020-1201'}
+{'Name': 'Buttermilk Channel', 'Address': '524 Court St Brooklyn, NY 11231-4014'}
+{'Name': 'Dos Toros Taqueria', 'Address': '137 4th Ave New York City, NY 10003-4916'}
+{'Name': 'Toloache 82', 'Address': '166 E 82nd St New York City, NY 10028-1822'}
+{'Name': 'The Soho Grand Bar & Lounge', 'Address': '310 W Broadway New York City, NY 10013-2225'}
+{'Name': ""Joe's Shanghai"", 'Address': '9 Pell St New York City, NY 10013-5134'}
+{'Name': 'Zoob Zib Thai Authentic Noodle Bar', 'Address': '460 9th Ave New York City, NY 10018-5623'}
+{'Name': 'The Lambs Club', 'Address': '132 W 44th St New York City, NY 10036-4011'}
+{'Name': 'Brasserie 1605 at the Crowne Plaza Times Square', 'Address': '1605 Broadway New York City, NY 10019-7406'}
+{'Name': 'Cafe Cranberry', 'Address': '115 W 45th St New York City, NY 10036-4005'}
+{'Name': 'J.G. Melon', 'Address': '1291 3rd Ave New York City, NY 10021-3301'}
+{'Name': 'Colonie', 'Address': '127 Atlantic Ave Brooklyn, NY 11201-5546'}
+{'Name': 'Milon Restaurant', 'Address': '93 1st Ave New York City, NY 10003-2922'}
+{'Name': 'Le Pain Quotidien', 'Address': '100 Grand St New York City, NY 10013'}
+{'Name': 'La Mirabelle', 'Address': '102 W 86th St New York City, NY 10024-4054'}
+{'Name': 'Westlight', 'Address': '111 N 12th St Brooklyn, NY 11249-1022'}
+{'Name': 'Hearth', 'Address': '403 E 12th St New York City, NY 10009-4024'}
+{'Name': ""Angelo's of Mulberry Street"", 'Address': '146 Mulberry St New York City, NY 10013-4708'}
+{'Name': 'Blue Note', 'Address': '131 W 3rd St New York City, NY 10012-1208'}
+{'Name': 'Hide-Chan Ramen', 'Address': '248 E 52nd St New York City, NY 10022-6201'}
+{'Name': 'Docks Oyster Bar', 'Address': '633 3rd Ave New York City, NY 10017-6706'}
+{'Name': 'Papaya King', 'Address': '179 E 86th St New York City, NY 10028-2106'}
+{'Name': ""Table D'Hote"", 'Address': '44 E 92nd St New York City, NY 10128-1319'}
+{'Name': 'Thai Villa', 'Address': '5 E 19th St New York City, NY 10003-1107'}
+{'Name': 'Caviar Russe', 'Address': '538 Madison Ave New York City, NY 10022-3215'}
+{'Name': 'The Bread Factory Cafe', 'Address': '470 Fashion Ave New York City, NY 10018-7600'}
+{'Name': 'Yum Yum Too', 'Address': '622 9th Ave New York City, NY 10036-3703'}
+{'Name': 'Pascalou', 'Address': '1308 Madison Ave New York City, NY 10128-1351'}
+{'Name': ""Bobby Van's Steak House"", 'Address': '230 Park Ave New York City, NY 10169-0005'}
+{'Name': 'Osteria Laguna Restaurant', 'Address': '209 E 42nd St New York City, NY 10017-5701'}
+{'Name': 'Atrium Dumbo', 'Address': '15 Main St Brooklyn, NY 11201-1003'}
+{'Name': 'David Burke Kitchen', 'Address': '23 Grand St New York City, NY 10013-1618'}
+{'Name': 'Little Italy NYC', 'Address': '151 Mulberry St New York City, NY 10013-4721'}
+{'Name': 'The Little Beet Table', 'Address': '333 Park Ave S New York City, NY 10010-2906'}
+{'Name': 'BCD Tofu House', 'Address': '5 W 32nd St New York City, NY 10001-3801'}
+{'Name': 'Indian Project', 'Address': '243 W 38th St New York City, NY 10018-4444'}
+{'Name': 'Petit Poulet', 'Address': '52 W 33rd St New York City, NY 10001-3302'}
+{'Name': 'Superiority Burger', 'Address': '430 E 9th St New York City, NY 10009-4922'}
+{'Name': 'Food Gallery 32', 'Address': '11 W 32nd St New York City, NY 10001-3819'}
+{'Name': 'Pax Wholesome Foods', 'Address': '202 E 42nd St New York City, NY 10017-5808'}
+{'Name': 'View Of The World', 'Address': '140 Washington St New York City, NY 10006-1071'}
+{'Name': 'Cafe Viand', 'Address': '2130 Broadway New York City, NY 10023-1724'}
+{'Name': ""Rice 'N' Beans"", 'Address': '744 9th Ave New York City, NY 10019-6624'}
+{'Name': ""EJ's Luncheonette"", 'Address': '1271 3rd Ave New York City, NY 10021-3657'}
+{'Name': 'Wild Ginger Pan Asian', 'Address': '380 Broome St New York City, NY 10013-3748'}
+{'Name': 'Le Pain Quotidien', 'Address': '70 W 40th St New York City, NY 10018-2671'}
+{'Name': '230 Fifth', 'Address': '230 5th Ave New York City, NY 10001-7704'}
+{'Name': 'BXL Zoute', 'Address': '50 W 22nd St New York City, NY 10010-5883'}
+{'Name': ""Sarabeth's East"", 'Address': '1295 Madison Ave New York City, NY 10128-1301'}
+{'Name': 'Tribeca Grill', 'Address': '375 Greenwich St New York City, NY 10013-2376'}
+{'Name': 'Don Giovvanni Ristorante', 'Address': '358 W 44th St New York City, NY 10036-5426'}
+{'Name': 'Upstairs at the Kimberly', 'Address': '145 E 50th St New York City, NY 10022-9502'}
+{'Name': 'Darbar', 'Address': '152 E 46th St New York City, NY 10017-2610'}
+{'Name': 'Paesano of Mulberry Street', 'Address': '136 Mulberry St New York City, NY 10013-4910'}
+{'Name': 'The Little Beet', 'Address': '135 W 50th St New York City, NY 10020-1201'}
+{'Name': 'California Pizza Kitchen', 'Address': '440 Park Ave S New York City, NY 10016-8012'}
+{'Name': 'Sergimmo Salumeria', 'Address': '456 9th Ave New York City, NY 10018-5614'}
+{'Name': 'Salon de Ning ROOFTOP', 'Address': '700 5th Avenue at 55th Street New York City, NY 10019'}
+{'Name': ""Brendan's Bar & Grill"", 'Address': '42 W 35th St New York City, NY 10001-2222'}
+{'Name': 'St. Cloud Social Rooftop', 'Address': '6 Times Square New York City, NY 10036'}
+{'Name': 'Benoit New York', 'Address': '60 W 55th St New York City, NY 10019-5308'}
+{'Name': 'Mandoo Bar', 'Address': '2 W 32nd St New York City, NY 10001-3809'}
+{'Name': 'Blue Water Grill', 'Address': '31 Union Square West New York City, NY 10003'}
+{'Name': 'Zen Ramen & Sushi', 'Address': '150 West 36Th Street New York City, NY 10018'}
+{'Name': 'Stage Door Delicatessen', 'Address': '360 9th Ave New York City, NY 10001-1652'}
+{'Name': 'Scallywags Irish Pub and Restaurant', 'Address': '508 9th Ave New York City, NY 10018-2806'}
+{'Name': 'La Bonne Soupe', 'Address': '48 W 55th St New York City, NY 10019-5313'}
+{'Name': 'The Standard Grill', 'Address': 'Corner of Washington and West 13th Street New York City, NY 10014'}
+{'Name': ""George's Restaurant"", 'Address': '89 Greenwich St New York City, NY 10006-2205'}
+{'Name': 'Zio Ristorante', 'Address': '17 W 19th St New York City, NY 10011-4332'}
+{'Name': 'Luna Piena Ristorante', 'Address': '243 E 53rd St New York City, NY 10022-4801'}
+{'Name': 'Bodega Negra', 'Address': '355 W 16th St New York City, NY 10011-5902'}
+{'Name': ""Shorty's"", 'Address': '576 9th Ave New York City, NY 10036-3733'}
+{'Name': 'Jubilee', 'Address': '948 1st Ave New York City, NY 10022-6471'}
+{'Name': 'Brooklyn Diner', 'Address': '155 W 43rd St New York City, NY 10036'}
+{'Name': 'Top Hops', 'Address': '94 Orchard St New York City, NY 10002-3173'}
+{'Name': 'Smith & Wollensky - New York City', 'Address': '797 3rd Ave New York City, NY 10022-6226'}
+{'Name': 'The Long Room', 'Address': '120 W 44th Street 6th Avenue & 7th Avenue New York City, NY 10036-4011'}
+{'Name': ""Norma's"", 'Address': '119 W 56th St New York City, NY 10019-4000'}
+{'Name': 'DeGrezia Ristorante', 'Address': '231 E 50th St New York City, NY 10022-7715'}
+{'Name': 'Pig and Khao', 'Address': '68 Clinton St New York City, NY 10002-2408'}
+{'Name': 'Obao', 'Address': '222 E 53rd St New York City, NY 10022-5205'}
+{'Name': 'The Todd English Food Hall', 'Address': '1 W 59th St New York City, NY 10019'}
+{'Name': 'The East Pole', 'Address': '133 E 65th St New York City, NY 10065-7029'}
+{'Name': 'Viv Regional Thai Cuisine', 'Address': '138 East 34Street. Between Lexington and 3ave New York City, NY 10016'}
+{'Name': ""Uncle Nick's Greek Cuisine"", 'Address': '382 8th Ave New York City, NY 10001-4848'}
+{'Name': ""Pig'n Whistle On Third"", 'Address': '922 3rd Ave New York City, NY 10022-3605'}
+{'Name': 'Peacefood Cafe', 'Address': '41 E 11th St New York City, NY 10003-4602'}
+{'Name': 'Gallow Green', 'Address': '542 W 27th St New York City, NY 10001-5506'}
+{'Name': 'Nom Wah Tea Parlor', 'Address': '13 Doyers St New York City, NY 10013-5104'}
+{'Name': 'Five Guys', 'Address': '343 7th Ave New York City, NY 10001-5093'}
+{'Name': 'Wondee Siam I', 'Address': '792 9th Ave New York City, NY 10019-5639'}
+{'Name': 'Burger Joint', 'Address': '33 W 8th St New York City, NY 10011-9039'}
+{'Name': 'Valhalla', 'Address': '815 9th Ave New York City, NY 10019-5601'}
+{'Name': 'Empire Diner', 'Address': '210 10th Ave New York City, NY 10011-4711'}
+{'Name': ""Bill's Bar & Burger"", 'Address': '16 West 51st Street New York City, NY 10019'}
+{'Name': 'Gaby Brasserie Francaise', 'Address': '44 W 45th St New York City, NY 10036-4261'}
+{'Name': 'La Pizza', 'Address': '200 5th Ave New York City, NY 10010-3302'}
+{'Name': 'Petrossian Boutique & Cafe', 'Address': '911 7th Ave New York City, NY 10019-2102'}
+{'Name': 'City Kitchen', 'Address': '700 8th Ave New York City, NY 10036-3901'}
+{'Name': 'Draught 55', 'Address': '245 E 55th St New York City, NY 10022-4022'}
+{'Name': 'Chirping Chicken', 'Address': '355 Amsterdam Ave New York City, NY 10024-6903'}
+{'Name': 'Elysian Cafe', 'Address': '1001 Washington St Hoboken, NJ 07030-5201'}
+{'Name': 'Le Cirque', 'Address': '151 E 58th St New York City, NY 10022-1287'}
+{'Name': ""Skinner's Loft"", 'Address': '146 Newark Ave Jersey City, NJ 07302-2812'}
+{'Name': 'Babbalucci', 'Address': '331 Lennox Av New York City, NY 10027'}
+{'Name': 'Supernova - Novotel Hotel Times Square', 'Address': '226 W 52nd St New York City, NY 10019-5802'}
+{'Name': 'SuteiShi', 'Address': '24 Peck Slip New York City, NY 10038-1750'}
+{'Name': 'Smashbhrger', 'Address': '10 W 33rd St New York City, NY 10001-3306'}
+{'Name': 'Vandal', 'Address': '199 Bowery New York City, NY 10002-2853'}
+{'Name': 'Il Piccolo Bufalo', 'Address': '141 Mulberry St New York City, NY 10013-5200'}
+{'Name': 'Spring Natural Kitchen', 'Address': '474 Columbus Ave New York City, NY 10024-5108'}
+{'Name': 'Mad Dog & Beans', 'Address': '83 Pearl St New York City, NY 10004-2602'}
+{'Name': 'Pret A Manger', 'Address': '179 Broadway New York City, NY 10007-3101'}
+{'Name': 'Mas (farmhouse)', 'Address': '39 Downing St New York City, NY 10014'}
+{'Name': 'Mercato', 'Address': '352 W 39th St New York City, NY 10018-1419'}
+{'Name': 'Burger & Barrel', 'Address': '25 W Houston St New York City, NY 10012-1538'}
+{'Name': 'Cellini', 'Address': '65 E 54th St New York City, NY 10022-4224'}
+{'Name': 'Arriba Arriba Mexican Restaurant', 'Address': '762 9th Ave New York City, NY 10019-6335'}
+{'Name': 'Philip Marie Restaurant', 'Address': '569 Hudson St New York City, NY 10014-2118'}
+{'Name': 'Dirty French', 'Address': '180 Ludlow St New York City, NY 10002-1514'}
+{'Name': 'Puglia Restaurant', 'Address': '189 Hester St New York City, NY 10013-4776'}
+{'Name': 'The Dutch', 'Address': '131 Sullivan St New York City, NY 10012-3043'}
+{'Name': 'Excuse My French', 'Address': '96 Orchard St New York City, NY 10002-3150'}
+{'Name': 'Playwright Irish Pub', 'Address': '27 W 35th St New York City, NY 10001-2247'}
+{'Name': 'Fairway Cafe', 'Address': '2127 Broadway New York City, NY 10023-1791'}
+{'Name': ""Ben's Kosher Delicatessen Restaurant & Caterers"", 'Address': '209 W 38th St New York City, NY 10018-4405'}
+{'Name': ""Pietro's"", 'Address': '232 E 43rd St New York City, NY 10017-4713'}
+{'Name': 'Frying Pan', 'Address': '207 12th Ave Pier 66 New York City, NY 10001-1007'}
+{'Name': 'Schnippers', 'Address': '570 Lexington Ave New York City, NY 10022-6837'}
+{'Name': 'Caffe Palermo', 'Address': '148 Mulberry St New York City, NY 10013-4722'}
+{'Name': 'Il Corallo Trattoria', 'Address': '172 Prince St New York City, NY 10012-2947'}
+{'Name': 'Porteno', 'Address': '299 10th Ave New York City, NY 10001-7015'}
+{'Name': 'Chipotle Mexican Grill', 'Address': '304 W 34th St New York City, NY 10001-1632'}
+{'Name': 'Babbo Ristorante e Enoteca', 'Address': '110 Waverly Pl New York City, NY 10011-9102'}
+{'Name': ""Hurley's Saloon"", 'Address': '232 W 48th St New York City, NY 10036-5691'}
+{'Name': 'Byblos Restaurant', 'Address': '80 Madison Ave New York City, NY 10016-7420'}
+{'Name': 'Red Poke', 'Address': '600 9th Ave New York City, NY 10036-3701'}
+{'Name': 'Pepe Rosso Social', 'Address': '173 Mott St New York City, NY 10013-4230'}
+{'Name': 'Grand Central Oyster Bar & Restaurant', 'Address': '89 E 42nd St New York City, NY 10017-5503'}
+{'Name': 'Skylight Diner', 'Address': '402 W 34th St New York City, NY 10001-2353'}
+{'Name': 'Timna', 'Address': '109 Saint Marks Pl New York City, NY 10009-5120'}
+{'Name': ""Ashley's Fine Foods"", 'Address': '500 Lexington Ave New York City, NY 10017-2035'}
+{'Name': 'Thaimee Table', 'Address': '99 3rd Ave New York City, NY 10003'}
+{'Name': 'Metro Grill', 'Address': '45 W 35th St New York City, NY 10001-2277'}
+{'Name': 'Lido', 'Address': '2168 Frederick Douglass Blvd New York City, NY 10026-2001'}
+{'Name': 'Indochine', 'Address': '430 Lafayette St New York City, NY 10003-6916'}
+{'Name': 'Chopt Salad', 'Address': '120 W 56th St New York City, NY 10019-3866'}
+{'Name': 'Five Senses', 'Address': '9 W 32nd St New York City, NY 10001-3863'}
+{'Name': 'Thai Market', 'Address': '960 Amsterdam Ave New York City, NY 10025-3002'}
+{'Name': 'Cosmic Diner', 'Address': '888 8th Ave New York City, NY 10019-5704'}
+{'Name': 'Westville Dumbo', 'Address': '81 Washington St Brooklyn, NY 11201-1411'}
+{'Name': 'Gyu-Kaku Japanese BBQ Dining', 'Address': '34 Cooper Sq New York City, NY 10003-7110'}
+{'Name': 'Heidelberg Restaurant', 'Address': '1648 2nd Ave New York City, NY 10028-3111'}
+{'Name': 'Cosme', 'Address': '35 E 21st St New York City, NY 10010-6212'}
+{'Name': 'Junoon Restaurant', 'Address': '27 W 24th St New York City, NY 10010-3290'}
+{'Name': 'Havana Social', 'Address': '688 10th Ave New York City, NY 10019-7104'}
+{'Name': 'Brasserie Ruhlmann', 'Address': '45 Rockefeller Plz New York City, NY 10111-0100'}
+{'Name': 'Barilla Restaurant', 'Address': '108 W 32nd St New York City, NY 10001-0074'}
+{'Name': 'Cucina Liberta Market', 'Address': '17 Battery Pl New York City, NY 10004-1207'}
+{'Name': 'The Flatiron Room', 'Address': '37 W 26th St New York City, NY 10010-1006'}
+{'Name': 'Route 66 Cafe', 'Address': '858 9th Ave New York City, NY 10019-4459'}
+{'Name': ""Sapori D'Italia"", 'Address': '105 Mulberry St New York City, NY 10013-4649'}
+{'Name': ""Angel's Share"", 'Address': '8 Stuyvesant St New York City, NY 10003-7501'}
+{'Name': 'Chazz Palminteri Italian Restaurant', 'Address': '30 W 46th St New York City, NY 10036-4500'}
+{'Name': ""Tacuba Hell's Kitchen Cantina Mexicana"", 'Address': '802 9th Ave New York City, NY 10019-5635'}
+{'Name': 'Bryant Park Grill', 'Address': '25 W 40th St New York City, NY 10018-2601'}
+{'Name': ""Wolfgang's Steakhouse"", 'Address': '4 Park Ave New York City, NY 10016-5339'}
+{'Name': 'Beer Authority', 'Address': '613 8th Ave New York City, NY 10018-3004'}
+{'Name': 'Europa Cafe', 'Address': '1700 Broadway New York City, NY 10019-5905'}
+{'Name': 'Snack EOS', 'Address': '522 9th Ave New York City, NY 10018-2803'}
+{'Name': 'indikitch', 'Address': '25 W 23rd St New York City, NY 10010'}
+{'Name': 'The Spotted Pig', 'Address': '314 W 11th St New York City, NY 10014-2369'}
+{'Name': 'The Crosby Bar', 'Address': '79 Crosby St New York City, NY 10012-3905'}
+{'Name': ""Sarabeth's West"", 'Address': '423 Amsterdam Ave New York City, NY 10024-5856'}
+{'Name': 'Brunetti Pizza', 'Address': '626 Hudson St New York City, NY 10014-5115'}
+{'Name': 'Stella 34 Trattoria', 'Address': '151 W 34th St New York City, NY 10001-2101'}
+{'Name': 'La Villetta', 'Address': '398 E 52nd St New York City, NY 10022-6460'}
+{'Name': 'Industry Kitchen', 'Address': '70 South St New York City, NY 10005-1616'}
+{'Name': 'Delice & Sarrasin', 'Address': '20 Christopher St New York City, NY 10014-3527'}
+{'Name': 'Supper', 'Address': '156 E 2nd St New York City, NY 10009-7719'}
+{'Name': 'Pergola Des Artistes', 'Address': '252 W 46th St New York City, NY 10036-1543'}
+{'Name': 'Le Pain Quotidien', 'Address': '708 Third Ave New York City, NY 10017'}
+{'Name': 'Harry Cipriani Restaurant', 'Address': '781 5th Ave New York City, NY 10022-1092'}
+{'Name': ""Joe G's Restaurant Italiano"", 'Address': '244 W 56th St New York City, NY 10019-4306'}
+{'Name': 'One World Observatory Restaurant', 'Address': '72 Vesey St New York City, NY 10007-2194'}
+{'Name': ""Del Frisco's Grille"", 'Address': '50 Rockefeller Plz New York City, NY 10020-1605'}
+{'Name': ""Morgan's Barbecue"", 'Address': '267 Flatbush Ave Brooklyn, NY 11217'}
+{'Name': 'Serafina', 'Address': '210 W 55th St New York City, NY 10019-5467'}
+{'Name': ""L'ybane"", 'Address': '709 8th Ave New York City, NY 10036-7111'}
+{'Name': ""Brother Jimmy's BBQ"", 'Address': '416 8th Ave New York City, NY 10001-1801'}
+{'Name': 'Tartinery', 'Address': '209 Mulberry St New York City, NY 10012-4565'}
+{'Name': ""Schnipper's"", 'Address': '620 8th Ave New York City, NY 10018-1618'}
+{'Name': 'Flor De Mayo Restaurant', 'Address': '2651 Broadway New York City, NY 10025-5024'}
+{'Name': ""Patsy's Pizza--74th Street"", 'Address': '61 W 74th St New York City, NY 10023-2433'}
+{'Name': 'Fabio Cucina Italiana', 'Address': '214 E 52nd St New York City, NY 10022-6207'}
+{'Name': 'Moonstruck Diner', 'Address': '244 Madison Ave New York City, NY 10016-2817'}
+{'Name': 'Rattle and Hum', 'Address': '14 E 33rd St New York City, NY 10016-5013'}
+{'Name': 'Root & Bone', 'Address': '200 E 3rd St New York City, NY 10009-7716'}
+{'Name': 'Yum Yum Bangkok', 'Address': '650 9th Ave New York City, NY 10036-3635'}
+{'Name': 'Storico', 'Address': '170 Central Park W New York City, NY 10024-5152'}
+{'Name': 'Brushstroke', 'Address': '30 Hudson St New York City, NY 10013'}
+{'Name': 'Bar Italia', 'Address': '768 Madison Ave New York City, NY 10065-6565'}
+{'Name': 'LAVO Italian Restaurant & Nightclub', 'Address': '39 E 58th St New York City, NY 10022-1617'}
+{'Name': 'Chart House', 'Address': 'Lincoln Harbor Pier D-T Weehawken, NJ 07086'}
+{'Name': 'Nios', 'Address': '130 W 46th St New York City, NY 10036'}
+{'Name': ""Minton's"", 'Address': '206 W 118th St New York City, NY 10026-1736'}
+{'Name': ""Cecconi's Dumbo"", 'Address': '55 Water St Brooklyn, NY 11201-1052'}
+{'Name': 'Satis Bistro', 'Address': '212 Washington St Jersey City, NJ 07302-4567'}
+{'Name': 'STK Midtown', 'Address': '1114 Avenue of the Americas New York City, NY 10036-7703'}
+{'Name': 'Epistrophy', 'Address': '200 Mott St New York City, NY 10012-4543'}
+{'Name': 'Carbone', 'Address': '181 Thompson St New York City, NY 10012-2583'}
+{'Name': 'Red Lobster', 'Address': '5 Times Square New York City, NY 10036-6527'}
+{'Name': 'Salinas', 'Address': '136 9th Ave New York City, NY 10011-4949'}
+{'Name': 'Becco', 'Address': '355 W 46th St New York City, NY 10036-3810'}
+{'Name': ""Coppola's East Side"", 'Address': '378 3rd Ave New York City, NY 10016-9042'}
+{'Name': 'Casa Enrique', 'Address': '548 49th Ave Long Island City, NY 11101-5611'}
+{'Name': 'Famous Famiglia', 'Address': '686 8th Ave New York City, NY 10036-7114'}
+{'Name': 'Meadowsweet', 'Address': '149 Broadway Brooklyn, NY 11211-8249'}
+{'Name': 'Square Diner', 'Address': '33 Leonard St New York City, NY 10013-2918'}
+{'Name': 'Serafina', 'Address': '1022 Madison Ave New York City, NY 10075-0103'}
+{'Name': 'Chipotle Mexican Grill', 'Address': '2 Broadway New York City, NY 10004-2207'}
+{'Name': 'B Squared', 'Address': '679 9th Ave New York City, NY 10036-3618'}
+{'Name': ""Tony's Di Napoli"", 'Address': 'Third Ave and E. 64th ST New York City, NY'}
+{'Name': 'AlMar', 'Address': '111 Front St Brooklyn, NY 11201-1007'}
+{'Name': 'Aldo Sohm Wine Bar', 'Address': '151 W 51st St New York City, NY 10019-6019'}
+{'Name': 'Fig & Olive Uptown', 'Address': '808 Lexington Ave New York City, NY 10065-7312'}
+{'Name': 'Distilled', 'Address': '211 W Broadway New York City, NY 10013-2927'}
+{'Name': 'Star on 18', 'Address': '128 10th Ave New York City, NY 10011-4704'}
+{'Name': ""l'Amico"", 'Address': '849 Avenue of the Americas New York City, NY 10001-4101'}
+{'Name': 'Villa Mosconi', 'Address': '69 Macdougal St New York City, NY 10012-2540'}
+{'Name': 'DuMont Burger', 'Address': '314 Bedford Ave Brooklyn, NY 11249-4881'}
+{'Name': 'Inatteso Pizzabar', 'Address': '28 West St New York City, NY 10004-1053'}
+{'Name': 'Rue 57', 'Address': '60 W 57th St New York City, NY 10019-3953'}
+{'Name': 'Vapiano Union Square', 'Address': '133 University Pl New York City, NY 10003-4509'}
+{'Name': 'Lansdowne Road', 'Address': '599 10th Ave New York City, NY 10036-3008'}
+{'Name': 'Lavagna', 'Address': '545 E 5th St New York City, NY 10009-6729'}
+{'Name': ""Connolly's Pub & Restaurant"", 'Address': '150 E 47th St New York City, NY 10017-2018'}
+{'Name': 'Barn Joo', 'Address': '35 Union Square W New York City, NY 10003-3200'}
+{'Name': 'Cascade Cafe', 'Address': '900 8th Ave New York City, NY 10019-6498'}
+{'Name': 'The Mark Restaurant by Jean Georges', 'Address': '25 E 77th St New York City, NY 10075-1711'}
+{'Name': 'BXL East', 'Address': '125 W 43rd St New York City, NY 10036-6505'}
+{'Name': 'Sacco Pizza', 'Address': '819 9th Ave New York City, NY 10019-4461'}
+{'Name': 'Gemma', 'Address': '335 Bowery New York City, NY 10003-7138'}
+{'Name': 'Brooklyn Crab', 'Address': '24 Reed St Brooklyn, NY 11231-1006'}
+{'Name': 'Sinigual', 'Address': '640 3rd Ave New York City, NY 10017-5641'}
+{'Name': 'Shanghai Cafe', 'Address': '100 Mott St New York City, NY 10013-4626'}
+{'Name': 'Ponche Taqueria & Cantina', 'Address': '420 W 49th St New York City, NY 10019-7255'}
+{'Name': 'The Strand Bistro', 'Address': '33 W 37th St New York City, NY 10018-6201'}
+{'Name': 'Beyond Sushi', 'Address': '75 9th Ave New York City, NY 10011-7006'}
+{'Name': 'Megu', 'Address': '355 W 16th St New York City, NY 10011-5902'}
+{'Name': 'Lexington Brass', 'Address': '517 Lexington Ave New York City, NY 10017-1204'}
+{'Name': 'Cafe Frida', 'Address': '368 Columbus Ave New York City, NY 10024-5109'}
+{'Name': 'The Brindle Room', 'Address': '277 E 10th St New York City, NY 10009-4825'}
+{'Name': 'Rucola', 'Address': '190 Dean St Brooklyn, NY 11217-2212'}
+{'Name': 'cafeteria', 'Address': '119 7th Avenue New York New York City, NY 10010'}
+{'Name': 'Mokbar', 'Address': '75 9th Ave New York City, NY 10011-7006'}
+{'Name': ""Patsy's"", 'Address': '450 Dean St Brooklyn, NY 11217-3498'}
+{'Name': 'Judge Roy Bean Public House', 'Address': '38 W 56th St New York City, NY 10019-3814'}
+{'Name': 'Premier Cafe', 'Address': '856 7th Ave New York City, NY 10019-5204'}
+{'Name': 'Morning Star Restaurant', 'Address': '879 9th Avenue at 57 Street New York City, NY 10019'}
+{'Name': 'Vinegar Hill House', 'Address': '72 Hudson Ave Brooklyn, NY 11201-1222'}
+{'Name': ""Rosie O'Grady's"", 'Address': '800 7th Ave New York City, NY 10019-5810'}
+{'Name': 'Via Quadronno', 'Address': '25 E 73rd St New York City, NY 10021-3521'}
+{'Name': 'La Boite en Bois', 'Address': '75 W 68th St New York City, NY 10023-5306'}
+{'Name': 'Jules Bistro', 'Address': '65 Saint Marks Pl New York City, NY 10003-7913'}
+{'Name': 'El Quijote', 'Address': '226 W 23rd St New York City, NY 10011-2301'}
+{'Name': 'Tavern 29', 'Address': '47 E 29th St New York City, NY 10016-7902'}
+{'Name': 'Legends New York City', 'Address': '6 W 33rd St New York City, NY 10001-3321'}
+{'Name': 'TBar', 'Address': '1278 3rd Ave New York City, NY 10021-3656'}
+{'Name': ""Sardi's Restaurant"", 'Address': '234 W 44th St New York City, NY 10036-3909'}
+{'Name': ""Grimaldi's Coal Brick Oven"", 'Address': '133 Clinton St Hoboken, NJ 07030-2501'}
+{'Name': 'Mezetto', 'Address': '161 E Houston St New York City, NY 10002-1004'}
+{'Name': 'by CHLOE. 22nd Street', 'Address': '60 W 22nd St. New York City, NY 10010'}
+{'Name': 'Hyatt Regency Jersey City', 'Address': '2 Exchange Pl Jersey City, NJ 07302-3901'}
+{'Name': 'Brass Monkey', 'Address': '55 Little West 12th St New York City, NY 10014-1304'}
+{'Name': 'Non Solo Piada', 'Address': '302 West 37th Street New York City, NY 10018-4299'}
+{'Name': 'Da Umberto', 'Address': '107 W 17th St New York City, NY 10011-5471'}
+{'Name': 'Carroll Place', 'Address': '157 Bleecker St New York City, NY 10012-1625'}
+{'Name': 'Il Vagabondo', 'Address': '351 E 62nd St New York City, NY 10065-7770'}
+{'Name': 'Playwright Tavern & Restaurant', 'Address': '202 W 49th St New York City, NY 10019-6810'}
+{'Name': 'Kefi', 'Address': '505 Columbus Ave New York City, NY 10024-4467'}
+{'Name': 'Maoz Vegetarian', 'Address': '38 Union Sq E New York City, NY 10003-3210'}
+{'Name': 'Astro Restaurant', 'Address': '1361 6th Avenue New York City, NY 10019-3811'}
+{'Name': 'The Cinnamon Snail', 'Address': '2 Pennsylvania Plaza New York City, NY 10121'}
+{'Name': 'The Heartland Brewery and Rotisserie at the Empire State Building', 'Address': '350 5th Ave New York City, NY 10118-0110'}
+{'Name': ""Harry's Italian Pizza Bar"", 'Address': '2 Gold St New York City, NY 10038-4821'}
+{'Name': 'St. Anselm', 'Address': '355 Metropolitan Ave Brooklyn, NY 11211-3309'}
+{'Name': ""Speedy's Fresh Food Cafe"", 'Address': '1271 Broadway New York City, NY 10001-3508'}
+{'Name': 'Arco Cafe', 'Address': '886 Amsterdam Ave New York City, NY 10025-4452'}
+{'Name': 'Playwright Celtic Pub', 'Address': '732 8th Ave New York City, NY 10036-7019'}
+{'Name': ""Omar's Kitchen & Bakery"", 'Address': '154 E 55th St New York City, NY 10022-4513'}
+{'Name': 'Kung Fu Kitchen', 'Address': '610 8th Ave New York City, NY 10018-3002'}
+{'Name': ""Patsy's Pizzeria"", 'Address': '206 E 60th St New York City, NY 10022-1463'}
+{'Name': 'Nai Tapas Bar', 'Address': '174 1st Ave New York City, NY 10009-4506'}
+{'Name': 'Rare Bar & Grill', 'Address': '303 Lexington Ave New York City, NY 10016-3165'}
+{'Name': 'Taverna Kyclades East Village', 'Address': '228 1st Ave New York City, NY 10009-3468'}
+{'Name': 'Eats', 'Address': '1055 Lexington Ave New York City, NY 10021-3205'}
