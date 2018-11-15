@@ -1,4 +1,4 @@
-from dash_package import db
+from __init__ import db
 
 class Restaurant(db.Model):
     __tablename__ = 'nyc_restaurants'
